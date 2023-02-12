@@ -1,0 +1,2861 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="renderer" content="webkit">
+<meta http-equiv="Cache-Control" content="max-age=300" />
+<link rel="dns-prefetch" href="//search.jd.com" />
+<link rel="dns-prefetch" href="//item.jd.com" />
+<link rel="dns-prefetch" href="//list.jd.com" />
+<link rel="dns-prefetch" href="//p.3.cn" />
+<link rel="dns-prefetch" href="//misc.360buyimg.com" />
+<link rel="dns-prefetch" href="//nfa.jd.com" />
+<link rel="dns-prefetch" href="//d.jd.com" />
+<link rel="dns-prefetch" href="//img12.360buyimg.com" />
+<link rel="dns-prefetch" href="//img13.360buyimg.com" />
+<link rel="dns-prefetch" href="//static.360buyimg.com" />
+<link rel="dns-prefetch" href="//csc.jd.com" />
+<link rel="dns-prefetch" href="//mercury.jd.com" />
+<link rel="dns-prefetch" href="//x.jd.com" />
+<link rel="dns-prefetch" href="//wl.jd.com" />
+<title>正大食品（CP）京东自营旗舰店 - 商品搜索 - 京东</title>
+<meta name="Keywords" content="正大食品（CP）京东自营旗舰店，京东正大食品（CP）京东自营旗舰店" />
+<meta name="description" content="在京东找到了正大食品（CP）京东自营旗舰店162件正大食品（CP）京东自营旗舰店的类似商品，其中包含了正大食品（CP）京东自营旗舰店价格、正大食品（CP）京东自营旗舰店评论、正大食品（CP）京东自营旗舰店导购、正大食品（CP）京东自营旗舰店图片等相关信息" />
+<style>
+.lv_prompt {
+   float: left;
+   font-size: 12px;
+   color: #f30213;
+   padding-left: 10px;
+}
+</style>
+<script>
+window.loadFa_toJson_data={query:'%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97'};
+window.jdpts={
+	_st : new Date().getTime()
+};
+
+window.pageConfig={
+	closeJpg : 1,
+	compatible: false,
+	searchType: 0 ,
+	avifImgSuffix: '',
+	jdfVersion: '2.0.0',
+	floatnav: 1,
+	price_pdos_off: 0,
+	actName: '',
+	pSource: 'search_pc',
+	queryParam: {
+		c1: 0,
+		c2:  0,
+		c3:  0,
+		brand: '',
+		price: '',
+		keyword: '%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97',
+		page: '3'
+	}
+};
+window.searchUnit={
+	resizeOnebox: function(g,f,j){var g=parseInt(g),i=typeof f,h=typeof j;if(!isNaN(g)){if("string"==i&&f!=""&&g>0){$("#J_oneBoxFrame_"+f).css("height",g+10);h=="function"&&j()}else{if(i=="undefined"||i=="function"){$("#virtualWareIFrame").css("height",g>0?g+10:0);i=="function"&&f()}}}},
+	resizeShopbox: function(e,d){var f=0;switch(e){case 1:case 2:f=145;break;case 3:f=75;break;case 4:f=80;break;default:break}f&&$("#shopboxIFrame").css("height",f).show();typeof(d)=="string"&&(new Image().src=d)},
+	coupon: {}
+};
+window.QUERY_KEYWORD= '正大食品（CP）京东自营旗舰店';
+window.REAL_KEYWORD= '正大食品（CP）京东自营旗舰店';
+</script>
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/??jdf/1.0.0/unit/ui-base/5.0.0/ui-base.css,jdf/1.0.0/unit/shortcut/5.0.0/shortcut.css,jdf/1.0.0/unit/global-header/5.0.0/global-header.css,jdf/1.0.0/unit/myjd/5.0.0/myjd.css,jdf/1.0.0/unit/nav/5.0.0/nav.css,jdf/1.0.0/unit/shoppingcart/5.0.0/shoppingcart.css,jdf/1.0.0/unit/global-footer/5.0.0/global-footer.css,jdf/1.0.0/unit/service/5.0.0/service.css,jdf/1.0.0/unit/global-header-photo/5.0.0/global-header-photo.css,jdf/1.0.0/ui/area/1.0.0/area.css" />
+
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/product/search/1.0.8/css/search.css" />
+
+<script type="text/javascript" src="//misc.360buyimg.com/??jdf/1.0.0/unit/base/5.0.0/base.js,jdf/lib/jquery-1.6.4.js,product/module/es5-shim.js"></script>
+<script>
+window.SEARCH = {
+	cid:  12250,
+	ui_ver: '1.0.8',
+	c_category: 0,
+	p_category: 0,
+ 	
+ 	
+	enable_adv:  1 ,
+	enable_abl_stock: 0,
+	enable_prom_adwords: 1,
+	enable_prom_flag: 0,
+	enable_price: 	1,
+	enable_stock: 2,
+	enable_yyk: 0,
+	lottery_code: '',
+	isList:0,
+	is_correct_hash: function(e){var a=["keyword","brand_id","activity_id","coupon_batch","ecard_id"];for(var c=0,b=a.length;c<b;c++){var d=new RegExp("(^|\\?|&)"+a[c]+"=([^&]*)(\\s|&|$)");if(d.test(e)){return true}}return false},
+	get_real_hash: function(){var a=window.location.hash.substr(1);if(a&&$.browser.mozilla){return location.href.substr(location.href.indexOf("#")+1)}else{return a}}
+};
+
+(function(a,b){var c=b.get_real_hash();if(b.is_correct_hash(c)){a.location.href=a.location.pathname+"?"+c;return false}else{if(a.self!=a.top||$.browser.msie&&$.browser.version<=9){var f=null,e=function(){var d=$(a).width();return 1210>d?$("html").removeClass():$("html").removeClass().addClass(d>=1210&&1390>d?"resp01":"resp02"),true};e();$(a).resize(function(){clearTimeout(f),f=setTimeout(e,20)})}}})(window,SEARCH);
+</script>
+
+
+
+
+
+
+<script>
+
+
+LogParm = {
+	result_count:'162',
+	ab:'0000',
+	front_cost:'1676040362139',
+	back_cost:'1676040362139',
+	ip:'101.71.39.139, 101.71.39.139',
+	cid: 12250,
+	psort:5,
+	page:'3',
+	ekey:'%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97',
+	ev:'0',
+	rec_type:'0',
+	rel_cat2:'13586,13591,21455',
+	rel_cat3:'13587,13594,13588,31698',
+	log_id:'1676040362138.1502',
+	expand:'pvid%3D8f68b1f7d9684638a3982da5e3959112%24',
+	mtest:'pc-search-none,G*SAK7_M_ENSA_L10648,G*S^Z^R^SAK7_NN_APF_R,v_mtests_mgs',
+	word:'',
+	search000014_log:{wids:'100014020333,100014020337,100026168248,100026104646,100026052850,100026052852,100024754500,100011548327,100021320514,100021231382,100020010956,100010806437,100018932818,100018932840,100018932846,100010524975,100018404822,100018149650,100010219923,100010219927,100009616847,100008719753,100015249196,100015249140,100008558177,100014589584,100008117015,100007854013,100007854031,100007853993',uuid:'',page:'3',page_count:'6',time:'1676040362',seqid:'',ip:'101.71.39.139',agent:'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78',new_ware:'0',price_model:'0',logid:'1676040362138.1502',prices:'36.80,42.80,21.60,65.60,72.90,54.90,21.90,113.00,19.90,56.50,31.90,35.90,25.80,21.60,26.40,34.80,65.90,69.90,31.90,31.90,49.90,46.90,35.90,35.90,29.90,29.90,86.90,30.80,21.90,27.90',stocks:'1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1',weight:'1630654175,1630654175,1630654175,1630562633,1630479553,1630479553,1627886907,1621258043,1619600241,1619436882,1617010334,1616642250,1614749809,1614749809,1614749809,1614749805,1612410188,1611572343,1611125212,1611125212,1606205707,1600251592,1599441228,1599441181,1599441180,1596613396,1596613393,1594634135,1594634135,1594634122',flags:'20976256,20976256,20976256,20975744,20975744,20975744,16781952,20975744,20975744,20975744,20975744,20975744,20975744,20975744,20975744,16781440,20975744,20975744,20975744,20975744,20975744,20975744,20975744,20975744,20975744,20975744,20975744,20975744,16781440,20975744',cate_type:'',text_weight:'166,168,166,175,175,172,169,172,146,168,178,174,168,166,168,170,172,172,158,108,174,176,180,172,181,160,189,172,174,168',extra:'0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0',adv:'0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0',synonym:'-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1;;-1',t1:'pc_search',t2:'sku_list',ct:'1676040362278',p0:'Q|||'},
+	sig:'Q3UyeC9qMU5yQVk4Qmw4aEEvY3dZU3VROUdoNjZCZ3p4QlY2dnR6RTloRFd0L0FaNDVwdUlrUkNyeXFrck1PK3lpalZvbWJmdUJ2dUQzRTR1Vm1sRVBiMjYyQnZHZjBsV2NFblk4aVhhTFpuSjZSczEwMFRhRnBqalJZdkRRVzR3c000L2h0Wk95cUJwdXZVckFIdTlIa1FHZmZnNTFzMmJOeSs1VTJxYjdRPQ=='
+};
+searchUnit.loadingStart=new Date().getTime();
+SEARCH.item_count=60;
+SEARCH.click=1;
+SEARCH.adv_param={page:"3",page_count:"6",psort:"5",cid1: 0,
+cid2:  0,
+cid3:  0,
+lazyload:1};
+SEARCH.base_url="keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97\x26qrst=1\x26psort=5\x26psort=5\x26pvid=8f68b1f7d9684638a3982da5e3959112";
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</head>
+<body>
+<!--shortcut start-->
+<div id="shortcut-2014">
+	<div class="w">
+    	<ul class="fl">
+    		<li id="ttbar-home"><i class="iconfont">&#xe608;</i><a href="//www.jd.com/" target="_blank">京东首页</a></li>
+    		<li class="dorpdown" id="ttbar-mycity"></li>
+    	</ul>
+    	<ul class="fr">
+			<li class="fore1" id="ttbar-login">
+				<a href="javascript:login();" class="link-login">你好，请登录</a>&nbsp;&nbsp;<a href="javascript:regist();" class="link-regist style-red">免费注册</a>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore2">
+				<div class="dt">
+					<a target="_blank" href="//order.jd.com/center/list.action">我的订单</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore3 dorpdown" id="ttbar-myjd">
+				<div class="dt cw-icon">
+					<!-- <i class="ci-right"><s>◇</s></i> -->
+					<a target="_blank" href="//home.jd.com/">我的京东</a><i class="iconfont">&#xe605;</i>
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore4" id="ttbar-member">
+				<div class="dt">
+					<a target="_blank" href="//vip.jd.com/">京东会员</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore5"   id="ttbar-ent">
+				<div class="dt">
+					<a target="_blank" href="//b.jd.com/">企业采购</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore6 dorpdown" id="ttbar-serv">
+				<div class="dt cw-icon">
+					<!-- <i class="ci-right"><s>◇</s></i> -->
+					客户服务<i class="iconfont">&#xe605;</i>
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore7 dorpdown" id="ttbar-navs">
+				<div class="dt cw-icon">
+					<!-- <i class="ci-right"><s>◇</s></i> -->
+					网站导航<i class="iconfont">&#xe605;</i>
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore8 dorpdown" id="ttbar-apps">
+				<div class="dt cw-icon">
+					<!-- <i class="ci-left"></i> -->
+					<!-- <i class="ci-right"><s>◇</s></i> -->
+					<a target="_blank" href="//app.jd.com/">手机京东</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore9" id="ttbar-member">
+				<div class="dt">
+					<a href="javascript:void(0)" id="cniil_wza">网站无障碍</a>
+				</div>
+			</li>
+    	</ul>
+		<span class="clr"></span>
+    </div>
+</div>
+<div id="o-header-2013"><div id="header-2013" style="display:none;"></div></div>
+<!--shortcut end-->
+<script charset='utf-8' type="text/javascript" src="//static.360buyimg.com/item/assets/oldman/wza1/aria.js?appid=bfeaebea192374ec1f220455f8d5f952"></script>
+
+<div class="w">
+    <div id="logo-2014">
+        <a href="//www.jd.com/" class="logo">京东</a>
+    </div>
+    <div id="search-2014" >
+        <ul id="shelper" class="hide"></ul>
+        <div class="form">
+            <input type="text" onkeydown="javascript:if(event.keyCode==13) search('key');" autocomplete="off" id="key" accesskey="s" class="text" />
+            <button onclick="search('key');return false;" class="button cw-icon"><i></i>搜索</button>
+        </div>
+    </div>
+    <div id="settleup-2014" class="dorpdown">
+        <div class="cw-icon">
+            <i class="iconfont">&#xe607;</i>
+            <i class="iconfont arrow">&#xe601;</i>
+            <a target="_blank" href="//cart.jd.com/cart.action">我的购物车</a>
+        </div>
+        <div class="dorpdown-layer">
+            <div class="spacer"></div>
+            <div id="settleup-content">
+                <span class="loading"></span>
+            </div>
+        </div>
+    </div>
+    <div id="hotwords"></div>
+    <span class="clr"></span>
+</div>
+
+<!--nav start-->
+<div id="nav-2014">
+    <div class="w">
+        <div class="w-spacer"></div>
+        <div id="categorys-2014" class="dorpdown"  data-type="default">
+            <div class="dt">
+                <a target="_blank" href="//www.jd.com/allSort.aspx">全部商品分类</a>
+            </div>
+        </div>
+        <div id="navitems-2014">
+            <ul id="navitems-group1">
+                <li clstag="" id="nav-fashion" class="fore1">
+                    <a class="b" target="_blank" href="//pro.jd.com/mall/active/3qMkfmPMc55RTahmSSpwwuxVrYMG/index.html">京东服饰</a>
+                </li>
+                <li clstag="" id="nav-beauty" class="fore2">
+                    <a class="b" target="_blank" href="//channel.jd.com/beautysale.html">美妆馆</a>
+                </li>
+                <li clstag="" id="nav-chaoshi" class="fore3">
+                    <a class="b" target="_blank" href="//channel.jd.com/chaoshi.html">超市</a>
+                </li>
+                <li clstag="" id="nav-fresh" class="fore4">
+                    <a class="b" target="_blank" href="//fresh.jd.com">生鲜</a>
+                </li>
+            </ul>
+            <div class="spacer"></div>
+            <ul id="navitems-group2">
+                <li clstag="" id="nav-jdww" class="fore1">
+                    <a class="b" target="_blank" href="//www.jd.hk/">京东国际</a>
+                </li>
+                <li clstag="" id="nav-red" class="fore2">
+                    <a class="b" target="_blank" href="//red.jd.com/">闪购</a>
+                </li>
+                <li clstag="" id="nav-auction" class="fore3">
+                    <a class="b" target="_blank" href="//paimai.jd.com/">拍卖</a>
+                </li>
+            </ul>
+            <div class="spacer"></div>
+            <ul id="navitems-group3">
+                <li clstag="" id="nav-jdjr" class="fore1">
+                    <a class="b" target="_blank" href="//jr.jd.com/">金融</a>
+                </li>
+                <li clstag="" id="nav-jdwj" class="fore2">
+                    <a class="b" target="_blank" href="//mro.jd.com/">京东五金城</a>
+                </li>
+            </ul>
+        </div>
+        <div id="treasure"></div>
+        <span class="clr"></span>
+    </div>
+</div>
+<!--nav end-->
+
+
+<div id="J_searchWrap" class="w">
+
+
+<div id="J_crumbsBar" class="crumbs-bar">
+	<div class="crumbs-nav">
+		<div class="crumbs-nav-main clearfix">
+			<div class="crumbs-nav-item">
+				<div class="crumbs-first">
+						<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5">全部结果</a>
+				</div>
+			</div>
+			<i class="crumbs-arrow">&gt;</i>
+			<div class="crumbs-nav-item">
+				<strong class="search-key">"正大食品（CP）京东自营旗舰..."</strong>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="J_container" class="container">
+
+<div id="J_selector" class="selector">
+
+		<div class="J_selectorLine s-brand">
+			<div class="sl-wrap">
+				<div class="sl-key"><strong>品牌：</strong></div>
+				<div class="sl-value">
+					<ul class="sl-b-letter J_brandLetter" onclick="searchlog(1,0,0,48)">
+						<li data-initial="0" class="curr">所有品牌</li>
+						<li data-initial="C" >C</li>
+						<li data-initial="Y" >Y</li>
+					</ul>
+					<div class="clr"></div>
+					<div class="sl-v-list">
+						<ul class="J_valueList">
+								<li id="brand-58023" data-initial="C" style="display:block;">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=exbrand_%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%5E"
+ rel="nofollow" onclick="searchlog(1,0,58023,71,'品牌::正大食品（CP）')" title="正大食品（CP）">
+										<i></i>
+										正大食品（CP）
+									</a>
+								</li>
+								<li id="brand-862205" data-initial="Y" style="display:block;">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=exbrand_%E4%BA%91%E5%86%A0%E6%A9%99%5E"
+ rel="nofollow" onclick="searchlog(1,0,862205,71,'品牌::云冠橙')" title="云冠橙">
+										<i></i>
+										云冠橙
+									</a>
+								</li>
+						</ul>
+					</div>
+					<div class="sl-b-selected J_brandSelected"><span class="sl-b-key">已选条件：</span><ul class="sl-v-list brand-selected"></ul></div>
+					<div class="sl-btns">
+						<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+						<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+					</div>
+				</div>
+				<div class="sl-ext">
+					<a class="sl-e-more J_extMore" href="javascript:;">更多<i></i></a>
+					<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+			</div>
+		</div>
+		<div class="J_selectorLine s-category">
+			<div class="sl-wrap">
+				<div class="sl-key"><strong>禽肉蛋品：</strong></div>
+				<div class="sl-value">
+					<div class="sl-v-list">
+						<ul class="J_valueList">
+
+							<li>
+								<a title="蛋类" data-v="12250" href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&cid3=12250"
+ onclick="searchlog(1,12250,13250)"><i></i>蛋类</a>
+							</li>
+
+							<li>
+								<a title="鸡肉" data-v="13587" href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&cid3=13587"
+ onclick="searchlog(1,13587,14587)"><i></i>鸡肉</a>
+							</li>
+
+							<li>
+								<a title="鸭肉" data-v="13588" href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&cid3=13588"
+ onclick="searchlog(1,13588,14588)"><i></i>鸭肉</a>
+							</li>
+						</ul>
+					</div>
+					<div class="sl-btns">
+						<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+						<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+					</div>
+				</div>
+				<div class="sl-ext">
+					<a class="sl-e-more J_extMore" href="javascript:;">更多<i></i></a>
+					<a class="sl-e-multiple J_extMultiple" href="javascript:;" style="visibility: hidden;">多选<i></i></a>
+				</div>
+			</div>
+		</div>
+
+		<div class="J_selectorLine s-category">
+			<div class="sl-wrap">
+				<div class="sl-key"><strong>面点烘焙：</strong></div>
+				<div class="sl-value">
+					<div class="sl-v-list">
+						<ul class="J_valueList">
+
+							<li>
+								<a title="面点" data-v="13594" href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&cid3=13594"
+ onclick="searchlog(1,13594,15594)"><i></i>面点</a>
+							</li>
+
+							<li>
+								<a title="水饺/馄饨" data-v="13592" href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&cid3=13592"
+ onclick="searchlog(1,13592,15592)"><i></i>水饺/馄饨</a>
+							</li>
+						</ul>
+					</div>
+					<div class="sl-btns">
+						<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+						<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+					</div>
+				</div>
+				<div class="sl-ext">
+					<a class="sl-e-more J_extMore" href="javascript:;">更多<i></i></a>
+					<a class="sl-e-multiple J_extMultiple" href="javascript:;" style="visibility: hidden;">多选<i></i></a>
+				</div>
+			</div>
+		</div>
+
+		<div  class="J_selectorLine s-line">
+			<div class="sl-wrap">
+				<div class="sl-key"><strong>产品形态:</strong></div>
+				<div class="sl-value">
+					<div class="sl-v-list">
+						<ul class="J_valueList">
+							<li>
+								<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=2847_86459%5E"
+ rel="nofollow" onclick="searchlog(1,0,30000,71,'实物')"><i></i>实物</a>
+							</li>
+							<li>
+								<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=2847_183568%5E"
+ rel="nofollow" onclick="searchlog(1,0,30001,71,'提货兑付券')"><i></i>提货兑付券</a>
+							</li>
+						</ul>
+					</div>
+					<div class="sl-btns">
+						<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+						<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+					</div>
+				</div>
+				<div class="sl-ext">
+					<a class="sl-e-more J_extMore" href="javascript:;">更多<i></i></a>
+					<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+			</div>
+		</div>
+		<div  class="J_selectorLine s-line">
+			<div class="sl-wrap">
+				<div class="sl-key"><strong>口味:</strong></div>
+				<div class="sl-value">
+					<div class="sl-v-list">
+						<ul class="J_valueList">
+							<li>
+								<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=3765_9690%5E"
+ rel="nofollow" onclick="searchlog(1,0,40000,71,'香辣味')"><i></i>香辣味</a>
+							</li>
+							<li>
+								<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=3765_9755%5E"
+ rel="nofollow" onclick="searchlog(1,0,40001,71,'咖喱味')"><i></i>咖喱味</a>
+							</li>
+							<li>
+								<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=3765_72076%5E"
+ rel="nofollow" onclick="searchlog(1,0,40002,71,'蒜香味')"><i></i>蒜香味</a>
+							</li>
+							<li>
+								<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=3765_83303%5E"
+ rel="nofollow" onclick="searchlog(1,0,40003,71,'黑椒味')"><i></i>黑椒味</a>
+							</li>
+							<li>
+								<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=3765_114568%5E"
+ rel="nofollow" onclick="searchlog(1,0,40004,71,'酱香味')"><i></i>酱香味</a>
+							</li>
+							<li>
+								<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=3765_114569%5E"
+ rel="nofollow" onclick="searchlog(1,0,40005,71,'酸辣味')"><i></i>酸辣味</a>
+							</li>
+							<li>
+								<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=3765_131123%5E"
+ rel="nofollow" onclick="searchlog(1,0,40006,71,'甜辣味')"><i></i>甜辣味</a>
+							</li>
+							<li>
+								<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=3765_157539%5E"
+ rel="nofollow" onclick="searchlog(1,0,40007,71,'椒麻味')"><i></i>椒麻味</a>
+							</li>
+							<li>
+								<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=3765_157571%5E"
+ rel="nofollow" onclick="searchlog(1,0,40008,71,'咸香味')"><i></i>咸香味</a>
+							</li>
+							<li>
+								<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=3765_157605%5E"
+ rel="nofollow" onclick="searchlog(1,0,40009,71,'咸甜味')"><i></i>咸甜味</a>
+							</li>
+						</ul>
+					</div>
+					<div class="sl-btns">
+						<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+						<a class="btn btn-default J_btnsCancel" href="javascript:;">取消</a>
+					</div>
+				</div>
+				<div class="sl-ext">
+					<a class="sl-e-more J_extMore" href="javascript:;">更多<i></i></a>
+					<a class="sl-e-multiple J_extMultiple" href="javascript:;">多选<i></i></a>
+				</div>
+			</div>
+		</div>
+		<div id="J_selectorSenior" class="J_selectorLine s-line s-senior">
+			<div class="sl-wrap">
+				<div class="sl-key"><span>高级选项:</span></div>
+				<div class="sl-value">
+					<div class="sl-v-tab">
+						<div class="sl-tab-trigger clearfix">
+							<a class="trig-item" href="javascript:;"><span class="text">贮存条件</span><i class="arrow"></i></a>
+							<a class="trig-item" href="javascript:;"><span class="text">食用方法</span><i class="arrow"></i></a>
+							<a class="trig-item" href="javascript:;"><span class="text">品种</span><i class="arrow"></i></a>
+							<a class="trig-item" href="javascript:;"><span class="text">饲养方式</span><i class="arrow"></i></a>
+							<a class="trig-item" href="javascript:;"><span class="text">净含量</span><i class="arrow"></i></a>
+							<a class="trig-item" href="javascript:;"><span class="text">加工工艺</span><i class="arrow"></i></a>
+							<a class="trig-item" href="javascript:;"><span class="text">类别</span><i class="arrow"></i></a>
+							<a class="trig-item" href="javascript:;"><span class="text">风味</span><i class="arrow"></i></a>
+							<a class="trig-item" href="javascript:;"><span class="text">烹饪建议</span><i class="arrow"></i></a>
+							<a class="trig-item" href="javascript:;"><span class="text">枚数</span><i class="arrow"></i></a>
+							<a class="trig-item" href="javascript:;"><span class="text">其他分类</span><i class="arrow"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="sl-tab-cont">
+					<div class="sl-tab-cont-item" style="display: none;">
+						<div class="sl-v-list">
+							<ul class="J_valueList clearfix">
+								<li data-group="0">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=4998_848%5E"
+  rel="nofollow" onclick="searchlog(1,0,140000,71,'冷藏')"><i></i>冷藏</a>
+								</li>
+								<li data-group="0">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=4998_86385%5E"
+  rel="nofollow" onclick="searchlog(1,0,140001,71,'冷冻')"><i></i>冷冻</a>
+								</li>
+							</ul>
+								<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+					<div class="sl-tab-cont-item" style="display: none;">
+						<div class="sl-v-list">
+							<ul class="J_valueList clearfix">
+								<li data-group="1">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=5439_94306%5E"
+  rel="nofollow" onclick="searchlog(1,0,140000,71,'加热即食')"><i></i>加热即食</a>
+								</li>
+								<li data-group="1">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=5439_157562%5E"
+  rel="nofollow" onclick="searchlog(1,0,140001,71,'再烹饪')"><i></i>再烹饪</a>
+								</li>
+							</ul>
+								<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+					<div class="sl-tab-cont-item" style="display: none;">
+						<div class="sl-v-list">
+							<ul class="J_valueList clearfix">
+								<li data-group="2">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=3834_89444%5E"
+  rel="nofollow" onclick="searchlog(1,0,140000,71,'白羽鸡')"><i></i>白羽鸡</a>
+								</li>
+								<li data-group="2">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=3834_95026%5E"
+  rel="nofollow" onclick="searchlog(1,0,140001,71,'樱桃谷鸭')"><i></i>樱桃谷鸭</a>
+								</li>
+							</ul>
+								<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+					<div class="sl-tab-cont-item" style="display: none;">
+						<div class="sl-v-list">
+							<ul class="J_valueList clearfix">
+								<li data-group="3">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=5396_89415%5E"
+  rel="nofollow" onclick="searchlog(1,0,140000,71,'散养')"><i></i>散养</a>
+								</li>
+								<li data-group="3">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=5396_89416%5E"
+  rel="nofollow" onclick="searchlog(1,0,140001,71,'圈养')"><i></i>圈养</a>
+								</li>
+							</ul>
+								<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+					<div class="sl-tab-cont-item" style="display: none;">
+						<div class="sl-v-list">
+							<ul class="J_valueList clearfix">
+								<li data-group="4">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=2682_199178%5E"
+  rel="nofollow" onclick="searchlog(1,0,140000,71,'≥1500g')"><i></i>≥1500g</a>
+								</li>
+								<li data-group="4">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=2682_70261%5E"
+  rel="nofollow" onclick="searchlog(1,0,140001,71,'500-999g')"><i></i>500-999g</a>
+								</li>
+								<li data-group="4">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=2682_70262%5E"
+  rel="nofollow" onclick="searchlog(1,0,140002,71,'1000-1499g')"><i></i>1000-1499g</a>
+								</li>
+								<li data-group="4">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=2682_199170%5E"
+  rel="nofollow" onclick="searchlog(1,0,140003,71,'＜500g')"><i></i>＜500g</a>
+								</li>
+								<li data-group="4">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=2682_89484%5E"
+  rel="nofollow" onclick="searchlog(1,0,140004,71,'300-499g')"><i></i>300-499g</a>
+								</li>
+								<li data-group="4">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=2682_117098%5E"
+  rel="nofollow" onclick="searchlog(1,0,140005,71,'1000-1999g')"><i></i>1000-1999g</a>
+								</li>
+							</ul>
+								<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+					<div class="sl-tab-cont-item" style="display: none;">
+						<div class="sl-v-list">
+							<ul class="J_valueList clearfix">
+								<li data-group="5">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=2449_89452%5E"
+  rel="nofollow" onclick="searchlog(1,0,140000,71,'调理')"><i></i>调理</a>
+								</li>
+								<li data-group="5">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=2449_89409%5E"
+  rel="nofollow" onclick="searchlog(1,0,140001,71,'原切')"><i></i>原切</a>
+								</li>
+								<li data-group="5">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=2449_95030%5E"
+  rel="nofollow" onclick="searchlog(1,0,140002,71,'净膛')"><i></i>净膛</a>
+								</li>
+								<li data-group="5">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=2449_94254%5E"
+  rel="nofollow" onclick="searchlog(1,0,140003,71,'熟制品')"><i></i>熟制品</a>
+								</li>
+							</ul>
+								<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+					<div class="sl-tab-cont-item" style="display: none;">
+						<div class="sl-v-list">
+							<ul class="J_valueList clearfix">
+								<li data-group="6">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=878_20254%5E"
+  rel="nofollow" onclick="searchlog(1,0,140000,71,'鸡蛋')"><i></i>鸡蛋</a>
+								</li>
+								<li data-group="6">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=878_8127%5E"
+  rel="nofollow" onclick="searchlog(1,0,140001,71,'面条')"><i></i>面条</a>
+								</li>
+								<li data-group="6">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=878_82904%5E"
+  rel="nofollow" onclick="searchlog(1,0,140002,71,'鸭翅')"><i></i>鸭翅</a>
+								</li>
+								<li data-group="6">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=878_82905%5E"
+  rel="nofollow" onclick="searchlog(1,0,140003,71,'鸭舌')"><i></i>鸭舌</a>
+								</li>
+								<li data-group="6">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=878_82908%5E"
+  rel="nofollow" onclick="searchlog(1,0,140004,71,'鸭掌')"><i></i>鸭掌</a>
+								</li>
+								<li data-group="6">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=878_82910%5E"
+  rel="nofollow" onclick="searchlog(1,0,140005,71,'鸭腿')"><i></i>鸭腿</a>
+								</li>
+								<li data-group="6">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=878_83386%5E"
+  rel="nofollow" onclick="searchlog(1,0,140006,71,'整鸭')"><i></i>整鸭</a>
+								</li>
+								<li data-group="6">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=878_86494%5E"
+  rel="nofollow" onclick="searchlog(1,0,140007,71,'包子')"><i></i>包子</a>
+								</li>
+								<li data-group="6">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=878_89454%5E"
+  rel="nofollow" onclick="searchlog(1,0,140008,71,'鸭胸')"><i></i>鸭胸</a>
+								</li>
+								<li data-group="6">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=878_94300%5E"
+  rel="nofollow" onclick="searchlog(1,0,140009,71,'烧饼/馅饼')"><i></i>烧饼/馅饼</a>
+								</li>
+								<li data-group="6">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=878_95017%5E"
+  rel="nofollow" onclick="searchlog(1,0,140010,71,'鸭胗/鸭肫')"><i></i>鸭胗/鸭肫</a>
+								</li>
+								<li data-group="6">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=878_95018%5E"
+  rel="nofollow" onclick="searchlog(1,0,140011,71,'鸭血')"><i></i>鸭血</a>
+								</li>
+								<li data-group="6">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=878_95020%5E"
+  rel="nofollow" onclick="searchlog(1,0,140012,71,'鸭肉块')"><i></i>鸭肉块</a>
+								</li>
+							</ul>
+								<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+					<div class="sl-tab-cont-item" style="display: none;">
+						<div class="sl-v-list">
+							<ul class="J_valueList clearfix">
+								<li data-group="7">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=5400_42346%5E"
+  rel="nofollow" onclick="searchlog(1,0,140000,71,'中式')"><i></i>中式</a>
+								</li>
+								<li data-group="7">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=5400_80548%5E"
+  rel="nofollow" onclick="searchlog(1,0,140001,71,'西式')"><i></i>西式</a>
+								</li>
+								<li data-group="7">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=5400_94307%5E"
+  rel="nofollow" onclick="searchlog(1,0,140002,71,'港式')"><i></i>港式</a>
+								</li>
+							</ul>
+								<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+					<div class="sl-tab-cont-item" style="display: none;">
+						<div class="sl-v-list">
+							<ul class="J_valueList clearfix">
+								<li data-group="8">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=5398_32476%5E"
+  rel="nofollow" onclick="searchlog(1,0,140000,71,'烧烤')"><i></i>烧烤</a>
+								</li>
+								<li data-group="8">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=5398_157559%5E"
+  rel="nofollow" onclick="searchlog(1,0,140001,71,'不可微波')"><i></i>不可微波</a>
+								</li>
+								<li data-group="8">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=5398_85308%5E"
+  rel="nofollow" onclick="searchlog(1,0,140002,71,'煎炸')"><i></i>煎炸</a>
+								</li>
+								<li data-group="8">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=5398_85310%5E"
+  rel="nofollow" onclick="searchlog(1,0,140003,71,'炒菜')"><i></i>炒菜</a>
+								</li>
+								<li data-group="8">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=5398_69384%5E"
+  rel="nofollow" onclick="searchlog(1,0,140004,71,'火锅')"><i></i>火锅</a>
+								</li>
+								<li data-group="8">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=5398_94306%5E"
+  rel="nofollow" onclick="searchlog(1,0,140005,71,'加热即食')"><i></i>加热即食</a>
+								</li>
+							</ul>
+								<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+					<div class="sl-tab-cont-item" style="display: none;">
+						<div class="sl-v-list">
+							<ul class="J_valueList clearfix">
+								<li data-group="9">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=6289_94282%5E"
+  rel="nofollow" onclick="searchlog(1,0,140000,71,'21-40枚')"><i></i>21-40枚</a>
+								</li>
+								<li data-group="9">
+									<a href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=6289_199260%5E"
+  rel="nofollow" onclick="searchlog(1,0,140001,71,'＞40枚')"><i></i>＞40枚</a>
+								</li>
+							</ul>
+								<a class="btn-multiple J_tabMultiple" href="javascript:;">多选<i></i></a>
+						</div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+					<div class="sl-tab-cont-item" style="display: none;">
+						<div class="sl-v-list">
+							<ul class="J_valueList clearfix">
+								<li data-group="10">
+									<a title="橙子" data-v="13555" href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&cid3=13555"
+   onclick="searchlog(1,13555,27555)"><i></i>橙子</a>
+								</li>
+								<li data-group="10">
+									<a title="虾类" data-v="12242" href="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&cid3=12242"
+   onclick="searchlog(1,12242,26242)"><i></i>虾类</a>
+								</li>
+							</ul>
+						</div>
+						<div class="sl-btns">
+							<a class="btn btn-primary J_btnsConfirm disabled" href="javascript:;">确定</a>
+							<a class="btn btn-default J_tabCancel" href="javascript:;">取消</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+</div>	<div id="J_main" class="g-main2">
+		<div class="m-list">
+			<div class="ml-wrap">
+
+		<div id="J_filter" class="filter">
+			<div class="f-line top">
+				<div class="f-sort">
+						<a class="" href="javascript:;"><span class="fs-tit">综合</span><em class="fs-down"><i class="arrow"></i></em></a>
+						<a class="" href="javascript:;"><span class="fs-tit">销量</span><em class="fs-down"><i class="arrow"></i></em></a>
+						<a class="" href="javascript:;"><span class="fs-tit">评论数</span><em class="fs-down"><i class="arrow"></i></em></a>
+						<a class="curr" href="javascript:;"><span class="fs-tit">新品</span><em class="fs-down"><i class="arrow"></i></em></a>
+						<a class="" href="javascript:;"><span class="fs-tit">价格</span><em class="fs-up"><i class="arrow-top"></i><i class="arrow-bottom"></i></em></a>
+				</div>
+			<div id="J_selectorPrice" class="f-price">
+				<div class="f-price-set">
+					<div class="fl"><input type="text" class="input-txt" autocomplete="off" style="color:#ccc;" value="¥"></div>
+					<em>-</em>
+					<div class="fl"><input type="text" class="input-txt" autocomplete="off" style="color:#ccc;" value="¥"></div>
+				</div>
+				<div class="f-price-edit">
+
+					<a href="javascript:;" class="item1 J-price-cancle">清空</a>
+					<a href="javascript:;" class="item2 J-price-confirm" data-url="search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&qrst=1&psort=5&psort=5&ev=exprice_%7Bmin%7D-%7Bmax%7D%5E"
+>确定</a>
+				</div>
+			</div>
+			<div id="J_topPage" class="f-pager">
+				<span class="fp-text">
+					<b>2</b><em>/</em><i>3</i>
+				</span>
+				<a class="fp-prev disabled" href="javascript:;">&lt;</a>
+				<a class="fp-next" href="javascript:;">&gt;</a>
+			</div>
+			<div class="f-result-sum">共<span id="J_resCount" class="num">100+</span>件商品</div>
+			<span class="clr"></span>
+		</div>
+		<div class="f-line">
+			<div class="f-store">
+				<div class="fs-cell delivery-location">配送至</div>
+				<div id="J_store_selector" class="ui-area-wrap" style="float:left;margin-right:10px">
+					<div class="ui-area-text-wrap">
+						<div class="ui-area-text">北京</div>
+						<b></b>
+					</div>
+					<div class="ui-area-content-wrap">
+						<div class="ui-area-tab"></div>
+						<div class="ui-area-content"></div>
+					</div>
+				</div>
+			</div>
+			<div id="J_feature" class="f-feature">
+				<ul>
+								<li><a data-field="shop" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,43)"><i></i>京东物流</a></li>
+								<li><a data-field="cod" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,34)"><i></i>货到付款</a></li>
+								<li><a data-field="stock" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,41)"><i></i>仅显示有货</a></li>
+								<li><a data-field="plus" data-val="1" class="" href="javascript:;" onclick="searchlog(1,0,0,92)"><i></i>PLUS专享</a></li>
+				</ul>
+			</div>
+			<span class="clr"></span>	
+		</div>
+	</div>
+
+
+<div id="J_goodsList" class="goods-list-v2 gl-type-1 J-goods-list">
+		
+	<ul class="gl-warp clearfix" data-tpl="1">
+	
+	<li data-sku="100014020333" data-spu="100014020333" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大（CP）正大厨易 清炖狮子头 咸香味 300g 1盒 精品菜 快手菜" 
+href="//item.jd.com/100014020333.html"
+ onclick="searchlog(1, '100014020333','0','2','','flagsClk=2097625');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t1/192130/30/20753/180423/612f56dbE29baaa26/407b23998ff68f22.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="21457" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100014020333" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100014020333">36.80</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大（CP）正大厨易 清炖狮子头 咸香味 300g 1盒 精品菜 快手菜" 
+href="//item.jd.com/100014020333.html"
+ onclick="searchlog(1, '100014020333','0','1','','flagsClk=2097625');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大（CP）正大</font>厨易 清炖狮子头 咸香味 300g 1盒 精品菜 快手菜</em>
+								<i class="promo-words" id="J_AD_100014020333">CP正大（CP）正大厨易 清炖狮子头 咸香味 300g 1盒 精品菜 快手菜</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100014020333" target="_blank" 
+href="//item.jd.com/100014020333.html#comment"
+ onclick="searchlog(1, '100014020333','0','3','','flagsClk=2097625');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="96"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100014020333" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品可领用优惠券">券139-40</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100014020333" href="javascript:;" onclick="searchlog(1, '100014020333','0','6','','flagsClk=2097625')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100014020333" href="javascript:;" onclick="searchlog(1, '100014020333','0','5','','flagsClk=2097625')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100014020333" href="//cart.jd.com/gate.action?pid=100014020333&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100014020333','0','4','','flagsClk=2097625')" data-limit="1"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100014020333" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100014020337" data-spu="100014020337" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大（CP）正大厨易 虎皮梅菜扣肉 咸香味 300g 精品菜 快手菜" 
+href="//item.jd.com/100014020337.html"
+ onclick="searchlog(1, '100014020337','1','2','','flagsClk=2097625');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t1/50767/35/15783/234178/612f547bE65e53c72/d3ee6c6077d4eedc.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="21457" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100014020337" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100014020337">42.80</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大（CP）正大厨易 虎皮梅菜扣肉 咸香味 300g 精品菜 快手菜" 
+href="//item.jd.com/100014020337.html"
+ onclick="searchlog(1, '100014020337','1','1','','flagsClk=2097625');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大（CP）正大</font>厨易 虎皮梅菜扣肉 咸香味 300g 精品菜 快手菜</em>
+								<i class="promo-words" id="J_AD_100014020337">CP正大（CP）正大厨易 虎皮梅菜扣肉 咸香味 300g 精品菜 快手菜</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100014020337" target="_blank" 
+href="//item.jd.com/100014020337.html#comment"
+ onclick="searchlog(1, '100014020337','1','3','','flagsClk=2097625');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="97"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100014020337" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品可领用优惠券">券139-40</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100014020337" href="javascript:;" onclick="searchlog(1, '100014020337','1','6','','flagsClk=2097625')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100014020337" href="javascript:;" onclick="searchlog(1, '100014020337','1','5','','flagsClk=2097625')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100014020337" href="//cart.jd.com/gate.action?pid=100014020337&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100014020337','1','4','','flagsClk=2097625')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100014020337" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100026168248" data-spu="100026168248" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大（CP）正大厨易 花生辣子鸡 香辣味 350g 1盒 下饭菜 快手菜" 
+href="//item.jd.com/100026168248.html"
+ onclick="searchlog(1, '100026168248','2','2','','flagsClk=2097625');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t1/197247/35/6148/229254/612f4f00Eb7465150/007078ce335fbc39.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="21457" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100026168248" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100026168248">21.60</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大（CP）正大厨易 花生辣子鸡 香辣味 350g 1盒 下饭菜 快手菜" 
+href="//item.jd.com/100026168248.html"
+ onclick="searchlog(1, '100026168248','2','1','','flagsClk=2097625');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大（CP）正大</font>厨易 花生辣子鸡 香辣味 350g 1盒 下饭菜 快手菜</em>
+								<i class="promo-words" id="J_AD_100026168248">CP正大（CP）正大厨易 花生辣子鸡 香辣味 350g 1盒 下饭菜 快手菜</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100026168248" target="_blank" 
+href="//item.jd.com/100026168248.html#comment"
+ onclick="searchlog(1, '100026168248','2','3','','flagsClk=2097625');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="97"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100026168248" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips J-picon-fix" data-tips="天天低价，正品保证">秒杀</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品可领用优惠券">券139-40</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100026168248" href="javascript:;" onclick="searchlog(1, '100026168248','2','6','','flagsClk=2097625')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100026168248" href="javascript:;" onclick="searchlog(1, '100026168248','2','5','','flagsClk=2097625')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100026168248" href="//cart.jd.com/gate.action?pid=100026168248&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100026168248','2','4','','flagsClk=2097625')" data-limit="1"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100026168248" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100026104646" data-spu="100026104646" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大厨易 胡椒猪肚鸡 咸香味 1.3kg 1盒 预制菜 快手菜" 
+href="//item.jd.com/100026104646.html"
+ onclick="searchlog(1, '100026104646','3','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t1/66477/19/23801/128801/63be24fbF6e470f13/e420988943109b2d.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="21457" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100026104646" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100026104646">65.60</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大厨易 胡椒猪肚鸡 咸香味 1.3kg 1盒 预制菜 快手菜" 
+href="//item.jd.com/100026104646.html"
+ onclick="searchlog(1, '100026104646','3','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大</font>厨易 胡椒猪肚鸡 咸香味 1.3kg 1盒 预制菜 快手菜</em>
+								<i class="promo-words" id="J_AD_100026104646">CP正大厨易 胡椒猪肚鸡 咸香味 1.3kg 1盒 预制菜 快手菜</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100026104646" target="_blank" 
+href="//item.jd.com/100026104646.html#comment"
+ onclick="searchlog(1, '100026104646','3','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="97"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100026104646" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品参与满件促销">2件9折</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100026104646" href="javascript:;" onclick="searchlog(1, '100026104646','3','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100026104646" href="javascript:;" onclick="searchlog(1, '100026104646','3','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100026104646" href="//cart.jd.com/gate.action?pid=100026104646&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100026104646','3','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100026104646" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100026052850" data-spu="100026052850" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="正大缤纷炸鸡大礼包 1.5kg 正大食品 正大炸鸡" 
+href="//item.jd.com/100026052850.html"
+ onclick="searchlog(1, '100026052850','4','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t1/56875/3/16978/235989/61373c19E4a39537b/52bc54f34ea2c646.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13587" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100026052850" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100026052850">72.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="正大缤纷炸鸡大礼包 1.5kg 正大食品 正大炸鸡" 
+href="//item.jd.com/100026052850.html"
+ onclick="searchlog(1, '100026052850','4','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">正大</font>缤纷炸鸡大礼包 1.5kg <font class="skcolor_ljg">正大食品</font> <font class="skcolor_ljg">正大</font>炸鸡</em>
+								<i class="promo-words" id="J_AD_100026052850">正大缤纷炸鸡大礼包 1.5kg 正大食品 正大炸鸡</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100026052850" target="_blank" 
+href="//item.jd.com/100026052850.html#comment"
+ onclick="searchlog(1, '100026052850','4','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="99"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100026052850" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100026052850" href="javascript:;" onclick="searchlog(1, '100026052850','4','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100026052850" href="javascript:;" onclick="searchlog(1, '100026052850','4','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100026052850" href="//cart.jd.com/gate.action?pid=100026052850&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100026052850','4','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100026052850" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100026052852" data-spu="100026052852" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="自营蛋类专场，鸡蛋礼盒丰富多样，活动惊喜不断，赶紧抢购吧~查看~" 
+href="//item.jd.com/100026052852.html"
+ onclick="searchlog(1, '100026052852','5','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t1/100567/22/35503/92895/63986a10E0dd01569/96ca549b923fc3f5.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="12250" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100026052852" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100026052852">54.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="自营蛋类专场，鸡蛋礼盒丰富多样，活动惊喜不断，赶紧抢购吧~查看~" 
+href="//item.jd.com/100026052852.html"
+ onclick="searchlog(1, '100026052852','5','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP</font>  <font class="skcolor_ljg">正大</font> 富硒鲜鸡蛋 30枚 1.68kg 早餐食材 优质蛋白 礼盒装</em>
+								<i class="promo-words" id="J_AD_100026052852">自营蛋类专场，鸡蛋礼盒丰富多样，活动惊喜不断，赶紧抢购吧~查看~</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100026052852" target="_blank" 
+href="//item.jd.com/100026052852.html#comment"
+ onclick="searchlog(1, '100026052852','5','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="98"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100026052852" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100026052852" href="javascript:;" onclick="searchlog(1, '100026052852','5','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100026052852" href="javascript:;" onclick="searchlog(1, '100026052852','5','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100026052852" href="//cart.jd.com/gate.action?pid=100026052852&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100026052852','5','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100026052852" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100024754500" data-spu="100024754500" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="正大（CP）鲜肉包 420g 12只 小笼包 包子馒头 方便菜 早餐优选" 
+href="//item.jd.com/100024754500.html"
+ onclick="searchlog(1, '100024754500','6','2','','flagsClk=1678195');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t1/192856/19/15134/185647/61010cf2Ed6f3a1c8/d32e2665bd9707f4.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13594" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100024754500" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100024754500">21.90</i>
+							</strong>
+							<span class="price-plus-1" title="PLUS会员专享价"><em>￥20.90</em><i></i></span>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="正大（CP）鲜肉包 420g 12只 小笼包 包子馒头 方便菜 早餐优选" 
+href="//item.jd.com/100024754500.html"
+ onclick="searchlog(1, '100024754500','6','1','','flagsClk=1678195');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">正大（CP）</font>鲜肉包 420g 12只 小笼包 包子馒头 方便菜 早餐优选</em>
+								<i class="promo-words" id="J_AD_100024754500">正大（CP）鲜肉包 420g 12只 小笼包 包子馒头 方便菜 早餐优选</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100024754500" target="_blank" 
+href="//item.jd.com/100024754500.html#comment"
+ onclick="searchlog(1, '100024754500','6','3','','flagsClk=1678195');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="98"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100024754500" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品可领用优惠券">券139-40</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100024754500" href="javascript:;" onclick="searchlog(1, '100024754500','6','6','','flagsClk=1678195')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100024754500" href="javascript:;" onclick="searchlog(1, '100024754500','6','5','','flagsClk=1678195')"><i></i>关注</a>
+									<a  href="javascript:;" onclick="searchlog(1, '100024754500','6','7','','flagsClk=1678195')" data-stock="100024754500"  class="p-o-btn notification J_notification" data-type="2" data-sku="100024754500" id="J_store_100024754500" data-sv="34"><i></i>到货通知</a>
+						</div>
+						<div class="p-stock" data-sku="100024754500" data-province="北京">
+							北京无货
+						</div>
+		</div>
+	</li>
+	
+	<li data-sku="100011548327" data-spu="100011548327" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大 正大厨易 整切西冷牛排 整切调理650g 1盒 牛排5片装" 
+href="//item.jd.com/100011548327.html"
+ onclick="searchlog(1, '100011548327','7','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t1/184751/4/3712/205838/609bb1b3Ea39f1a3c/cb46f2884bf63c70.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="21457" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100011548327" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100011548327">113.00</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大 正大厨易 整切西冷牛排 整切调理650g 1盒 牛排5片装" 
+href="//item.jd.com/100011548327.html"
+ onclick="searchlog(1, '100011548327','7','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大</font> <font class="skcolor_ljg">正大</font>厨易 整切西冷牛排 整切调理650g 1盒 牛排5片装</em>
+								<i class="promo-words" id="J_AD_100011548327">CP正大 正大厨易 整切西冷牛排 整切调理650g 1盒 牛排5片装</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100011548327" target="_blank" 
+href="//item.jd.com/100011548327.html#comment"
+ onclick="searchlog(1, '100011548327','7','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="97"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100011548327" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips J-picon-fix" data-tips="天天低价，正品保证">秒杀</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品可领用优惠券">券139-40</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100011548327" href="javascript:;" onclick="searchlog(1, '100011548327','7','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100011548327" href="javascript:;" onclick="searchlog(1, '100011548327','7','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100011548327" href="//cart.jd.com/gate.action?pid=100011548327&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100011548327','7','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100011548327" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100021320514" data-spu="100021320514" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="正大(CP) 经典美式热狗棒 780g 12支/袋 早餐下午茶 微波即食  咬一口肉质饱满，面皮松软" 
+href="//item.jd.com/100021320514.html"
+ onclick="searchlog(1, '100021320514','8','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t1/189126/16/4843/206612/60aca9f9E642270eb/0de02e560fcf97ae.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13594" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100021320514" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100021320514">19.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="正大(CP) 经典美式热狗棒 780g 12支/袋 早餐下午茶 微波即食  咬一口肉质饱满，面皮松软" 
+href="//item.jd.com/100021320514.html"
+ onclick="searchlog(1, '100021320514','8','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">正大</font>(<font class="skcolor_ljg">CP</font>) 经典美式热狗棒 780g 12支/袋 早餐下午茶 微波即食  咬一口肉质饱满，面皮松软</em>
+								<i class="promo-words" id="J_AD_100021320514">正大(CP) 经典美式热狗棒 780g 12支/袋 早餐下午茶 微波即食  咬一口肉质饱满，面皮松软</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100021320514" target="_blank" 
+href="//item.jd.com/100021320514.html#comment"
+ onclick="searchlog(1, '100021320514','8','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="98"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100021320514" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品可领用优惠券">券139-40</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100021320514" href="javascript:;" onclick="searchlog(1, '100021320514','8','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100021320514" href="javascript:;" onclick="searchlog(1, '100021320514','8','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100021320514" href="//cart.jd.com/gate.action?pid=100021320514&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100021320514','8','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100021320514" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100021231382" data-spu="100021231382" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="自营蛋类专场，鸡蛋礼盒丰富多样，活动惊喜不断，赶紧抢购吧~查看~" 
+href="//item.jd.com/100021231382.html"
+ onclick="searchlog(1, '100021231382','9','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t1/89644/4/25521/83795/63637611E7a374691/24e01ce82b424b5c.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="12250" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100021231382" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100021231382">56.50</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="自营蛋类专场，鸡蛋礼盒丰富多样，活动惊喜不断，赶紧抢购吧~查看~" 
+href="//item.jd.com/100021231382.html"
+ onclick="searchlog(1, '100021231382','9','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP</font>  <font class="skcolor_ljg">正大</font> 日式微盐味 溏心蛋 12枚 开袋即食 健康轻食 独立包装</em>
+								<i class="promo-words" id="J_AD_100021231382">自营蛋类专场，鸡蛋礼盒丰富多样，活动惊喜不断，赶紧抢购吧~查看~</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100021231382" target="_blank" 
+href="//item.jd.com/100021231382.html#comment"
+ onclick="searchlog(1, '100021231382','9','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="96"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100021231382" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips J-picon-fix" data-tips="天天低价，正品保证">秒杀</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100021231382" href="javascript:;" onclick="searchlog(1, '100021231382','9','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100021231382" href="javascript:;" onclick="searchlog(1, '100021231382','9','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100021231382" href="//cart.jd.com/gate.action?pid=100021231382&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100021231382','9','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100021231382" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100020010956" data-spu="100020010956" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="精选优良品种，全产业链品质保障，从餐桌到味蕾呼之欲出的的鲜美。" 
+href="//item.jd.com/100020010956.html"
+ onclick="searchlog(1, '100020010956','10','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t1/180784/18/173/207149/607f9bc0E6d22ceb5/0458d98e93be8f17.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="21457" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100020010956" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100020010956">31.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="精选优良品种，全产业链品质保障，从餐桌到味蕾呼之欲出的的鲜美。" 
+href="//item.jd.com/100020010956.html"
+ onclick="searchlog(1, '100020010956','10','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大（CP）</font>椒麻小酥肉400g 冷冻猪肉酥火锅酥肉 油炸<font class="skcolor_ljg">食品</font></em>
+								<i class="promo-words" id="J_AD_100020010956">精选优良品种，全产业链品质保障，从餐桌到味蕾呼之欲出的的鲜美。</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100020010956" target="_blank" 
+href="//item.jd.com/100020010956.html#comment"
+ onclick="searchlog(1, '100020010956','10','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="97"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100020010956" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品可领用优惠券">券139-40</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100020010956" href="javascript:;" onclick="searchlog(1, '100020010956','10','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100020010956" href="javascript:;" onclick="searchlog(1, '100020010956','10','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100020010956" href="//cart.jd.com/gate.action?pid=100020010956&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100020010956','10','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100020010956" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100010806437" data-spu="100010806437" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大食品(CP) 鸡琵琶腿切块 1kg 切块鸡腿肉 鸡块带骨鸡腿肉块" 
+href="//item.jd.com/100010806437.html"
+ onclick="searchlog(1, '100010806437','11','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t1/169224/39/14541/74961/605b1d7aEdebeeb57/5c63becb5c353f1e.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13587" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100010806437" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100010806437">35.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大食品(CP) 鸡琵琶腿切块 1kg 切块鸡腿肉 鸡块带骨鸡腿肉块" 
+href="//item.jd.com/100010806437.html"
+ onclick="searchlog(1, '100010806437','11','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大食品</font>(<font class="skcolor_ljg">CP</font>) 鸡琵琶腿切块 1kg 切块鸡腿肉 鸡块带骨鸡腿肉块</em>
+								<i class="promo-words" id="J_AD_100010806437">CP正大食品(CP) 鸡琵琶腿切块 1kg 切块鸡腿肉 鸡块带骨鸡腿肉块</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100010806437" target="_blank" 
+href="//item.jd.com/100010806437.html#comment"
+ onclick="searchlog(1, '100010806437','11','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="99"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100010806437" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品参与满件促销">2件9折</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100010806437" href="javascript:;" onclick="searchlog(1, '100010806437','11','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100010806437" href="javascript:;" onclick="searchlog(1, '100010806437','11','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100010806437" href="//cart.jd.com/gate.action?pid=100010806437&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100010806437','11','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100010806437" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100018932818" data-spu="100018932818" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大（CP）正大厨易 鱼香肉丝 甜辣味 300g 1盒 下饭菜 快手菜" 
+href="//item.jd.com/100018932818.html"
+ onclick="searchlog(1, '100018932818','12','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t1/164342/26/8039/199781/6038c1ceEe298214d/56f27c65e5b9c8b1.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="21457" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100018932818" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100018932818">25.80</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大（CP）正大厨易 鱼香肉丝 甜辣味 300g 1盒 下饭菜 快手菜" 
+href="//item.jd.com/100018932818.html"
+ onclick="searchlog(1, '100018932818','12','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大（CP）正大</font>厨易 鱼香肉丝 甜辣味 300g 1盒 下饭菜 快手菜</em>
+								<i class="promo-words" id="J_AD_100018932818">CP正大（CP）正大厨易 鱼香肉丝 甜辣味 300g 1盒 下饭菜 快手菜</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100018932818" target="_blank" 
+href="//item.jd.com/100018932818.html#comment"
+ onclick="searchlog(1, '100018932818','12','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="96"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100018932818" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品可领用优惠券">券139-40</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100018932818" href="javascript:;" onclick="searchlog(1, '100018932818','12','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100018932818" href="javascript:;" onclick="searchlog(1, '100018932818','12','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100018932818" href="//cart.jd.com/gate.action?pid=100018932818&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100018932818','12','4','','flagsClk=2097574')" data-limit="1"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100018932818" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100018932840" data-spu="100018932840" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大（CP）正大厨易 泰式咖喱鸡 咸香味 300g 1盒 下饭菜 快手菜" 
+href="//item.jd.com/100018932840.html"
+ onclick="searchlog(1, '100018932840','13','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t1/156493/7/11528/160134/6038c43aEb5bf1969/e0ca72e4d00bb885.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="21457" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100018932840" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100018932840">21.60</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大（CP）正大厨易 泰式咖喱鸡 咸香味 300g 1盒 下饭菜 快手菜" 
+href="//item.jd.com/100018932840.html"
+ onclick="searchlog(1, '100018932840','13','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大（CP）正大</font>厨易 泰式咖喱鸡 咸香味 300g 1盒 下饭菜 快手菜</em>
+								<i class="promo-words" id="J_AD_100018932840">CP正大（CP）正大厨易 泰式咖喱鸡 咸香味 300g 1盒 下饭菜 快手菜</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100018932840" target="_blank" 
+href="//item.jd.com/100018932840.html#comment"
+ onclick="searchlog(1, '100018932840','13','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="97"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100018932840" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips J-picon-fix" data-tips="天天低价，正品保证">秒杀</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100018932840" href="javascript:;" onclick="searchlog(1, '100018932840','13','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100018932840" href="javascript:;" onclick="searchlog(1, '100018932840','13','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100018932840" href="//cart.jd.com/gate.action?pid=100018932840&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100018932840','13','4','','flagsClk=2097574')" data-limit="1"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100018932840" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100018932846" data-spu="100018932846" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大（CP）正大厨易 宫保鸡丁 咸辣味 300g 1盒 下饭菜 快手菜" 
+href="//item.jd.com/100018932846.html"
+ onclick="searchlog(1, '100018932846','14','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t1/143299/12/10785/175948/6038c688E4d0a1e4b/1d6e8ea38690d194.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="21457" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100018932846" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100018932846">26.40</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大（CP）正大厨易 宫保鸡丁 咸辣味 300g 1盒 下饭菜 快手菜" 
+href="//item.jd.com/100018932846.html"
+ onclick="searchlog(1, '100018932846','14','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大（CP）正大</font>厨易 宫保鸡丁 咸辣味 300g 1盒 下饭菜 快手菜</em>
+								<i class="promo-words" id="J_AD_100018932846">CP正大（CP）正大厨易 宫保鸡丁 咸辣味 300g 1盒 下饭菜 快手菜</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100018932846" target="_blank" 
+href="//item.jd.com/100018932846.html#comment"
+ onclick="searchlog(1, '100018932846','14','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="97"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100018932846" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips J-picon-fix" data-tips="天天低价，正品保证">秒杀</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100018932846" href="javascript:;" onclick="searchlog(1, '100018932846','14','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100018932846" href="javascript:;" onclick="searchlog(1, '100018932846','14','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100018932846" href="//cart.jd.com/gate.action?pid=100018932846&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100018932846','14','4','','flagsClk=2097574')" data-limit="1"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100018932846" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100010524975" data-spu="100010524975" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大（CP）正大厨易 台式三杯鸡 300g 精品菜 方便菜 快手菜" 
+href="//item.jd.com/100010524975.html"
+ onclick="searchlog(1, '100010524975','15','2','','flagsClk=1678144');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t1/211980/1/22477/173195/63469a1dE1958e2e8/96bcf9c4eb589d3c.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="21457" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100010524975" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100010524975">34.80</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大（CP）正大厨易 台式三杯鸡 300g 精品菜 方便菜 快手菜" 
+href="//item.jd.com/100010524975.html"
+ onclick="searchlog(1, '100010524975','15','1','','flagsClk=1678144');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大（CP）正大</font>厨易 台式三杯鸡 300g 精品菜 方便菜 快手菜</em>
+								<i class="promo-words" id="J_AD_100010524975">CP正大（CP）正大厨易 台式三杯鸡 300g 精品菜 方便菜 快手菜</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100010524975" target="_blank" 
+href="//item.jd.com/100010524975.html#comment"
+ onclick="searchlog(1, '100010524975','15','3','','flagsClk=1678144');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="97"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100010524975" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品可领用优惠券">券139-40</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100010524975" href="javascript:;" onclick="searchlog(1, '100010524975','15','6','','flagsClk=1678144')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100010524975" href="javascript:;" onclick="searchlog(1, '100010524975','15','5','','flagsClk=1678144')"><i></i>关注</a>
+									<a  href="javascript:;" onclick="searchlog(1, '100010524975','15','7','','flagsClk=1678144')" data-stock="100010524975"  class="p-o-btn notification J_notification" data-type="2" data-sku="100010524975" id="J_store_100010524975" data-sv="34"><i></i>到货通知</a>
+						</div>
+						<div class="p-stock" data-sku="100010524975" data-province="北京">
+							北京无货
+						</div>
+		</div>
+	</li>
+	
+	<li data-sku="100018404822" data-spu="100018404822" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="自营蛋类专场，鸡蛋礼盒丰富多样，活动惊喜不断，赶紧抢购吧~查看~" 
+href="//item.jd.com/100018404822.html"
+ onclick="searchlog(1, '100018404822','16','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t1/167648/20/4956/169046/601926adEae67e949/046711e4a773cc08.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="12250" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100018404822" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100018404822">65.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="自营蛋类专场，鸡蛋礼盒丰富多样，活动惊喜不断，赶紧抢购吧~查看~" 
+href="//item.jd.com/100018404822.html"
+ onclick="searchlog(1, '100018404822','16','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP</font>  <font class="skcolor_ljg">正大</font> 无抗鲜鸡蛋40枚 2.24kg  优质蛋白 早餐食材 礼盒装</em>
+								<i class="promo-words" id="J_AD_100018404822">自营蛋类专场，鸡蛋礼盒丰富多样，活动惊喜不断，赶紧抢购吧~查看~</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100018404822" target="_blank" 
+href="//item.jd.com/100018404822.html#comment"
+ onclick="searchlog(1, '100018404822','16','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="98"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100018404822" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品参与满件促销">2件9折</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100018404822" href="javascript:;" onclick="searchlog(1, '100018404822','16','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100018404822" href="javascript:;" onclick="searchlog(1, '100018404822','16','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100018404822" href="//cart.jd.com/gate.action?pid=100018404822&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100018404822','16','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100018404822" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100018149650" data-spu="100018149650" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="自营蛋类专场，鸡蛋礼盒丰富多样，活动惊喜不断，赶紧抢购吧~查看~" 
+href="//item.jd.com/100018149650.html"
+ onclick="searchlog(1, '100018149650','17','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t1/59486/4/22278/224936/63a27599Ea21ffddf/33ecfa7bb7961402.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="12250" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100018149650" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100018149650">69.90</i>
+							</strong>
+							<span class="price-plus-1" title="PLUS会员专享价"><em>￥65.40</em><i></i></span>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="自营蛋类专场，鸡蛋礼盒丰富多样，活动惊喜不断，赶紧抢购吧~查看~" 
+href="//item.jd.com/100018149650.html"
+ onclick="searchlog(1, '100018149650','17','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP</font>【生鲜年礼】福蛋礼盒 <font class="skcolor_ljg">正大</font> 玉兔鲜鸡蛋礼盒 40枚 2.24kg </em>
+								<i class="promo-words" id="J_AD_100018149650">自营蛋类专场，鸡蛋礼盒丰富多样，活动惊喜不断，赶紧抢购吧~查看~</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100018149650" target="_blank" 
+href="//item.jd.com/100018149650.html#comment"
+ onclick="searchlog(1, '100018149650','17','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="98"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100018149650" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品参与满件促销">2件8折</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100018149650" href="javascript:;" onclick="searchlog(1, '100018149650','17','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100018149650" href="javascript:;" onclick="searchlog(1, '100018149650','17','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100018149650" href="//cart.jd.com/gate.action?pid=100018149650&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100018149650','17','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100018149650" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100010219923" data-spu="100010219923" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="正大（CP） 芝士紫薯包 720g 18只 儿童早餐 广式早茶点心 包子馒头 方便菜" 
+href="//item.jd.com/100010219923.html"
+ onclick="searchlog(1, '100010219923','18','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t1/182421/7/4792/90301/60a4aaefEc65a0a6f/558b42d698c3112b.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13594" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100010219923" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100010219923">31.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="正大（CP） 芝士紫薯包 720g 18只 儿童早餐 广式早茶点心 包子馒头 方便菜" 
+href="//item.jd.com/100010219923.html"
+ onclick="searchlog(1, '100010219923','18','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">正大（CP）</font> 芝士紫薯包 720g 18只 儿童早餐 广式早茶点心 包子馒头 方便菜</em>
+								<i class="promo-words" id="J_AD_100010219923">正大（CP） 芝士紫薯包 720g 18只 儿童早餐 广式早茶点心 包子馒头 方便菜</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100010219923" target="_blank" 
+href="//item.jd.com/100010219923.html#comment"
+ onclick="searchlog(1, '100010219923','18','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="98"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100010219923" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品可领用优惠券">券139-40</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100010219923" href="javascript:;" onclick="searchlog(1, '100010219923','18','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100010219923" href="javascript:;" onclick="searchlog(1, '100010219923','18','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100010219923" href="//cart.jd.com/gate.action?pid=100010219923&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100010219923','18','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100010219923" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100010219927" data-spu="100010219927" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP 意式芝士小披萨 600g 6只" 
+href="//item.jd.com/100010219927.html"
+ onclick="searchlog(1, '100010219927','19','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t1/175750/10/2159/235253/606bdccbEbbcc499e/7ba7bca9a4dbd4fa.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13594" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100010219927" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100010219927">31.90</i>
+							</strong>
+							<span class="price-plus-1" title="PLUS会员专享价"><em>￥29.90</em><i></i></span>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP 意式芝士小披萨 600g 6只" 
+href="//item.jd.com/100010219927.html"
+ onclick="searchlog(1, '100010219927','19','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP</font> 意式芝士小披萨 600g 6只</em>
+								<i class="promo-words" id="J_AD_100010219927">CP 意式芝士小披萨 600g 6只</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100010219927" target="_blank" 
+href="//item.jd.com/100010219927.html#comment"
+ onclick="searchlog(1, '100010219927','19','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="98"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100010219927" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品可领用优惠券">券139-40</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100010219927" href="javascript:;" onclick="searchlog(1, '100010219927','19','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100010219927" href="javascript:;" onclick="searchlog(1, '100010219927','19','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100010219927" href="//cart.jd.com/gate.action?pid=100010219927&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100010219927','19','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100010219927" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100009616847" data-spu="100009616847" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大食品(CP) 泰香Q卷(原味)1kg 豆皮肉卷 火锅丸子 麻辣烫食材" 
+href="//item.jd.com/100009616847.html"
+ onclick="searchlog(1, '100009616847','20','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t1/140698/29/15593/93326/5fbe0c0aE9098c190/200da7ccd2bd54ee.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13587" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100009616847" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100009616847">49.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大食品(CP) 泰香Q卷(原味)1kg 豆皮肉卷 火锅丸子 麻辣烫食材" 
+href="//item.jd.com/100009616847.html"
+ onclick="searchlog(1, '100009616847','20','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大食品</font>(<font class="skcolor_ljg">CP</font>) 泰香Q卷(原味)1kg 豆皮肉卷 火锅丸子 麻辣烫食材</em>
+								<i class="promo-words" id="J_AD_100009616847">CP正大食品(CP) 泰香Q卷(原味)1kg 豆皮肉卷 火锅丸子 麻辣烫食材</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100009616847" target="_blank" 
+href="//item.jd.com/100009616847.html#comment"
+ onclick="searchlog(1, '100009616847','20','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="99"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100009616847" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品参与满件促销">2件9折</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100009616847" href="javascript:;" onclick="searchlog(1, '100009616847','20','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100009616847" href="javascript:;" onclick="searchlog(1, '100009616847','20','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100009616847" href="//cart.jd.com/gate.action?pid=100009616847&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100009616847','20','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100009616847" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100008719753" data-spu="100008719753" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大食品(CP) 金粉翅根 900g 鸡翅 调理鸡翅根 鸡翅膀 鸡翅根" 
+href="//item.jd.com/100008719753.html"
+ onclick="searchlog(1, '100008719753','21','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t1/138659/21/9270/152859/5f6dad31Edc8f369d/222de2df1dc9ef92.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13587" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100008719753" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100008719753">46.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大食品(CP) 金粉翅根 900g 鸡翅 调理鸡翅根 鸡翅膀 鸡翅根" 
+href="//item.jd.com/100008719753.html"
+ onclick="searchlog(1, '100008719753','21','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大食品</font>(<font class="skcolor_ljg">CP</font>) 金粉翅根 900g 鸡翅 调理鸡翅根 鸡翅膀 鸡翅根</em>
+								<i class="promo-words" id="J_AD_100008719753">CP正大食品(CP) 金粉翅根 900g 鸡翅 调理鸡翅根 鸡翅膀 鸡翅根</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100008719753" target="_blank" 
+href="//item.jd.com/100008719753.html#comment"
+ onclick="searchlog(1, '100008719753','21','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="99"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100008719753" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips J-picon-fix" data-tips="品牌限时特卖">闪购</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100008719753" href="javascript:;" onclick="searchlog(1, '100008719753','21','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100008719753" href="javascript:;" onclick="searchlog(1, '100008719753','21','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100008719753" href="//cart.jd.com/gate.action?pid=100008719753&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100008719753','21','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100008719753" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100015249196" data-spu="100015249196" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大食品(CP) 鸡翅根 1.5kg 出口级食材 鸡肉 鸡翅小鸡腿" 
+href="//item.jd.com/100015249196.html"
+ onclick="searchlog(1, '100015249196','22','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t1/121217/10/13482/104961/5f6da002Ee64ea0f5/f6faecbc3ee843ec.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13587" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100015249196" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100015249196">35.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大食品(CP) 鸡翅根 1.5kg 出口级食材 鸡肉 鸡翅小鸡腿" 
+href="//item.jd.com/100015249196.html"
+ onclick="searchlog(1, '100015249196','22','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大食品</font>(<font class="skcolor_ljg">CP</font>) 鸡翅根 1.5kg 出口级食材 鸡肉 鸡翅小鸡腿</em>
+								<i class="promo-words" id="J_AD_100015249196">CP正大食品(CP) 鸡翅根 1.5kg 出口级食材 鸡肉 鸡翅小鸡腿</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100015249196" target="_blank" 
+href="//item.jd.com/100015249196.html#comment"
+ onclick="searchlog(1, '100015249196','22','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="99"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100015249196" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品参与满件促销">2件9折</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100015249196" href="javascript:;" onclick="searchlog(1, '100015249196','22','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100015249196" href="javascript:;" onclick="searchlog(1, '100015249196','22','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100015249196" href="//cart.jd.com/gate.action?pid=100015249196&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100015249196','22','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100015249196" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100015249140" data-spu="100015249140" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大食品(CP) 琵琶腿 1.5kg 出口级食材 鸡肉 鸡 鸡大腿 烤炸鸡腿" 
+href="//item.jd.com/100015249140.html"
+ onclick="searchlog(1, '100015249140','23','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t1/144574/31/9132/131104/5f6da06fEe0c93362/8d67a02435b7d6be.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13587" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100015249140" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100015249140">35.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大食品(CP) 琵琶腿 1.5kg 出口级食材 鸡肉 鸡 鸡大腿 烤炸鸡腿" 
+href="//item.jd.com/100015249140.html"
+ onclick="searchlog(1, '100015249140','23','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大食品</font>(<font class="skcolor_ljg">CP</font>) 琵琶腿 1.5kg 出口级食材 鸡肉 鸡 鸡大腿 烤炸鸡腿</em>
+								<i class="promo-words" id="J_AD_100015249140">CP正大食品(CP) 琵琶腿 1.5kg 出口级食材 鸡肉 鸡 鸡大腿 烤炸鸡腿</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100015249140" target="_blank" 
+href="//item.jd.com/100015249140.html#comment"
+ onclick="searchlog(1, '100015249140','23','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="99"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100015249140" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品参与满件促销">2件9折</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100015249140" href="javascript:;" onclick="searchlog(1, '100015249140','23','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100015249140" href="javascript:;" onclick="searchlog(1, '100015249140','23','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100015249140" href="//cart.jd.com/gate.action?pid=100015249140&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100015249140','23','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100015249140" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100008558177" data-spu="100008558177" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大食品(CP) 鸡大胸 1.5kg 出口级食材  白羽肉鸡 鸡肉" 
+href="//item.jd.com/100008558177.html"
+ onclick="searchlog(1, '100008558177','24','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t1/112870/19/18673/123678/5f6d9e25E87bcbaea/3ab6a4c2400eb4bf.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13587" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100008558177" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100008558177">29.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大食品(CP) 鸡大胸 1.5kg 出口级食材  白羽肉鸡 鸡肉" 
+href="//item.jd.com/100008558177.html"
+ onclick="searchlog(1, '100008558177','24','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大食品</font>(<font class="skcolor_ljg">CP</font>) 鸡大胸 1.5kg 出口级食材  白羽肉鸡 鸡肉</em>
+								<i class="promo-words" id="J_AD_100008558177">CP正大食品(CP) 鸡大胸 1.5kg 出口级食材  白羽肉鸡 鸡肉</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100008558177" target="_blank" 
+href="//item.jd.com/100008558177.html#comment"
+ onclick="searchlog(1, '100008558177','24','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="99"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100008558177" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100008558177" href="javascript:;" onclick="searchlog(1, '100008558177','24','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100008558177" href="javascript:;" onclick="searchlog(1, '100008558177','24','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100008558177" href="//cart.jd.com/gate.action?pid=100008558177&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100008558177','24','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100008558177" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100014589584" data-spu="100014589584" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="正大食品CP 福建虾滑 150g 虾肉含量95% 国产海鲜 生鲜水产 火锅食材 白对虾虾滑" 
+href="//item.jd.com/100014589584.html"
+ onclick="searchlog(1, '100014589584','25','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t1/199928/37/23205/42422/61765817E7d7cc8c3/6fa523355812f410.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="12242" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100014589584" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100014589584">29.90</i>
+							</strong>
+							<span class="price-plus-1" title="PLUS会员专享价"><em>￥26.80</em><i></i></span>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="正大食品CP 福建虾滑 150g 虾肉含量95% 国产海鲜 生鲜水产 火锅食材 白对虾虾滑" 
+href="//item.jd.com/100014589584.html"
+ onclick="searchlog(1, '100014589584','25','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//img14.360buyimg.com/uba/jfs/t6919/268/501386350/1257/92e5fb39/5976fcf9Nd915775f.png" />
+<font class="skcolor_ljg">正大食品CP</font> 福建虾滑 150g 虾肉含量95% 国产海鲜 生鲜水产 火锅食材 白对虾虾滑</em>
+								<i class="promo-words" id="J_AD_100014589584">正大食品CP 福建虾滑 150g 虾肉含量95% 国产海鲜 生鲜水产 火锅食材 白对虾虾滑</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100014589584" target="_blank" 
+href="//item.jd.com/100014589584.html#comment"
+ onclick="searchlog(1, '100014589584','25','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="98"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100014589584" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100014589584" href="javascript:;" onclick="searchlog(1, '100014589584','25','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100014589584" href="javascript:;" onclick="searchlog(1, '100014589584','25','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100014589584" href="//cart.jd.com/gate.action?pid=100014589584&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100014589584','25','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100014589584" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100008117015" data-spu="100008117015" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="正大食品CP 福建白虾 800g 约41至48只 海鲜水产" 
+href="//item.jd.com/100008117015.html"
+ onclick="searchlog(1, '100008117015','26','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t1/120204/20/8944/112906/5f2d04b1Eb713eee7/7dae219e41298b65.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="12242" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100008117015" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100008117015">86.90</i>
+							</strong>
+							<span class="price-plus-1" title="PLUS会员专享价"><em>￥82.90</em><i></i></span>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="正大食品CP 福建白虾 800g 约41至48只 海鲜水产" 
+href="//item.jd.com/100008117015.html"
+ onclick="searchlog(1, '100008117015','26','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//img14.360buyimg.com/uba/jfs/t6919/268/501386350/1257/92e5fb39/5976fcf9Nd915775f.png" />
+<font class="skcolor_ljg">正大食品CP</font> 福建白虾 800g 约41至48只 海鲜水产</em>
+								<i class="promo-words" id="J_AD_100008117015">正大食品CP 福建白虾 800g 约41至48只 海鲜水产</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100008117015" target="_blank" 
+href="//item.jd.com/100008117015.html#comment"
+ onclick="searchlog(1, '100008117015','26','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="98"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100008117015" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100008117015" href="javascript:;" onclick="searchlog(1, '100008117015','26','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100008117015" href="javascript:;" onclick="searchlog(1, '100008117015','26','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100008117015" href="//cart.jd.com/gate.action?pid=100008117015&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100008117015','26','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100008117015" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100007854013" data-spu="100007854013" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大食品(CP) 雪花鸡排 1kg 约10片 白羽鸡 鸡胸肉 鸡肉块 炸鸡排" 
+href="//item.jd.com/100007854013.html"
+ onclick="searchlog(1, '100007854013','27','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t1/121829/7/7328/157670/5f1119a7E10a539d2/e8096c1d7cab8ee0.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13587" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100007854013" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100007854013">30.80</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大食品(CP) 雪花鸡排 1kg 约10片 白羽鸡 鸡胸肉 鸡肉块 炸鸡排" 
+href="//item.jd.com/100007854013.html"
+ onclick="searchlog(1, '100007854013','27','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大食品</font>(<font class="skcolor_ljg">CP</font>) 雪花鸡排 1kg 约10片 白羽鸡 鸡胸肉 鸡肉块 炸鸡排</em>
+								<i class="promo-words" id="J_AD_100007854013">CP正大食品(CP) 雪花鸡排 1kg 约10片 白羽鸡 鸡胸肉 鸡肉块 炸鸡排</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100007854013" target="_blank" 
+href="//item.jd.com/100007854013.html#comment"
+ onclick="searchlog(1, '100007854013','27','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="98"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100007854013" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips J-picon-fix" data-tips="品牌限时特卖">闪购</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100007854013" href="javascript:;" onclick="searchlog(1, '100007854013','27','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100007854013" href="javascript:;" onclick="searchlog(1, '100007854013','27','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100007854013" href="//cart.jd.com/gate.action?pid=100007854013&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100007854013','27','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100007854013" data-province="北京"></div>
+		</div>
+	</li>
+	
+	<li data-sku="100007854031" data-spu="100007854031" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="CP正大食品(CP) 风情骨肉 1kg  白羽鸡 鸡架 奥尔良风味 鸡肉小吃" 
+href="//item.jd.com/100007854031.html"
+ onclick="searchlog(1, '100007854031','28','2','','flagsClk=1678144');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t1/115688/32/12882/197138/5f14f7c6Ecfe2325d/9cd0b0a6b317b16d.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13587" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100007854031" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100007854031">21.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="CP正大食品(CP) 风情骨肉 1kg  白羽鸡 鸡架 奥尔良风味 鸡肉小吃" 
+href="//item.jd.com/100007854031.html"
+ onclick="searchlog(1, '100007854031','28','1','','flagsClk=1678144');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">CP正大食品</font>(<font class="skcolor_ljg">CP</font>) 风情骨肉 1kg  白羽鸡 鸡架 奥尔良风味 鸡肉小吃</em>
+								<i class="promo-words" id="J_AD_100007854031">CP正大食品(CP) 风情骨肉 1kg  白羽鸡 鸡架 奥尔良风味 鸡肉小吃</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100007854031" target="_blank" 
+href="//item.jd.com/100007854031.html#comment"
+ onclick="searchlog(1, '100007854031','28','3','','flagsClk=1678144');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="99"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100007854031" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips" style="border-color:#4d88ff;color:#4d88ff;" data-idx="1" data-tips="品质服务，放心购物" >放心购</i>
+								<i class="goods-icons4 J-picon-tips" data-tips="本商品参与满件促销">2件9折</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100007854031" href="javascript:;" onclick="searchlog(1, '100007854031','28','6','','flagsClk=1678144')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100007854031" href="javascript:;" onclick="searchlog(1, '100007854031','28','5','','flagsClk=1678144')"><i></i>关注</a>
+									<a  href="javascript:;" onclick="searchlog(1, '100007854031','28','7','','flagsClk=1678144')" data-stock="100007854031"  class="p-o-btn notification J_notification" data-type="2" data-sku="100007854031" id="J_store_100007854031" data-sv="34"><i></i>到货通知</a>
+						</div>
+						<div class="p-stock" data-sku="100007854031" data-province="北京">
+							北京无货
+						</div>
+		</div>
+	</li>
+	
+	<li data-sku="100007853993" data-spu="100007853993" ware-type="10"   class="gl-item">
+		<div class="gl-i-wrap">
+						<div class="p-img">
+							<a target="_blank" title="正大食品(CP) 蜀迷小酥肉 800g 白羽鸡 鸡胸肉 酥鸡肉 火锅酥肉 鸡肉粒" 
+href="//item.jd.com/100007853993.html"
+ onclick="searchlog(1, '100007853993','29','2','','flagsClk=2097574');">
+								<img width="220" height="220" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t1/118177/4/12980/141728/5f18ed30E6cac52ef/64f233e0c5b18d2d.jpg" />
+				        	</a>
+							
+							<div data-lease="" data-catid="13587" data-venid="1000086171" data-presale="0"   ></div>
+						</div>
+						
+						<div class="p-price">
+							<strong class="J_100007853993" data-presale="0"  data-done="1"  >
+									<em>￥</em><i data-price="100007853993">27.90</i>
+							</strong>
+						</div>
+						<div class="p-name p-name-type-2">
+							<a target="_blank" title="正大食品(CP) 蜀迷小酥肉 800g 白羽鸡 鸡胸肉 酥鸡肉 火锅酥肉 鸡肉粒" 
+href="//item.jd.com/100007853993.html"
+ onclick="searchlog(1, '100007853993','29','1','','flagsClk=2097574');">
+								<em><img class="p-tag3" src="//m.360buyimg.com/cc/jfs/t1/113659/27/28361/2962/62ecb1f0E6c5fc50c/b914680e87a2c8e9.png" />
+<font class="skcolor_ljg">正大食品</font>(<font class="skcolor_ljg">CP</font>) 蜀迷小酥肉 800g 白羽鸡 鸡胸肉 酥鸡肉 火锅酥肉 鸡肉粒</em>
+								<i class="promo-words" id="J_AD_100007853993">正大食品(CP) 蜀迷小酥肉 800g 白羽鸡 鸡胸肉 酥鸡肉 火锅酥肉 鸡肉粒</i>
+							</a>
+						</div>
+						<div class="p-commit">
+							<strong><a id="J_comment_100007853993" target="_blank" 
+href="//item.jd.com/100007853993.html#comment"
+ onclick="searchlog(1, '100007853993','29','3','','flagsClk=2097574');"></a></strong>
+						</div>
+						<div class="p-shop" data-dongdong="" data-selfware="1" data-score="5" data-reputation="99"  >
+									<span class="J_im_icon"><a target="_blank" class="curr-shop hd-shopname" onclick="searchlog(1,'1000086171',0,58)" href="//mall.jd.com/index-1000086171.html?from=pc" title="正大食品（CP）京东自营旗舰店">正大食品（CP）京东自营旗舰店</a></span>
+						</div>
+						<div class="p-icons" id="J_pro_100007853993" data-done="1">
+								<i class="goods-icons J-picon-tips J-picon-fix" data-idx="1" data-tips="京东自营，品质保障">自营</i>
+								<i class="goods-icons4 J-picon-tips J-picon-fix" data-tips="品牌限时特卖">闪购</i>
+						</div>
+						<div class="p-operate" >
+							<a class="p-o-btn contrast J_contrast contrast" data-sku="100007853993" href="javascript:;" onclick="searchlog(1, '100007853993','29','6','','flagsClk=2097574')"><i></i>对比</a>
+							<a class="p-o-btn focus  J_focus" data-sku="100007853993" href="javascript:;" onclick="searchlog(1, '100007853993','29','5','','flagsClk=2097574')"><i></i>关注</a>
+								<a class="p-o-btn addcart" data-stocknew="100007853993" href="//cart.jd.com/gate.action?pid=100007853993&pcount=1&ptype=1"
+ target="_blank" onclick="searchlog(1, '100007853993','29','4','','flagsClk=2097574')" data-limit="0"><i></i>加入购物车</a>
+						</div>
+							<div class="p-stock hide" data-stocknew="100007853993" data-province="北京"></div>
+		</div>
+	</li>
+	</ul>
+	<span class="clr"></span>
+</div>
+<div id="J_scroll_loading" class="notice-loading-more"><span>正在加载中，请稍后~~</span></div>
+<div class="page clearfix"><div id="J_bottomPage" class="p-wrap"></div></div>
+			</div>
+		</div>
+<div class="m-aside">
+		<div class="aside-bar">
+			<div id="J_promGoodsWrap_291" class="ab-goods u-ad-wrap" >
+				<span class="u-ad"></span>
+				<div class="mt"><h3>商品精选</h3></div>
+				<div class="mc">
+					<ul class="clearfix" data-x="ab">
+					</ul>
+				</div>
+			</div>
+			<div id="J_recommendGoods" class="ab-goods"><div class="mt"><h3>精品推荐</h3></div><div class="mc"></div></div>
+			<div class="promo-pic-adbox u-ad-wrap" style="display:none;"><span class="u-ad"></span><h5 class="hd">商家精选</h5><div class="bd"><div id="J_promWrap_576"><div class="mc"></div></div></div></div>
+			<div id="miaozhen8148" class="ab-pic"></div>
+		</div>
+
+</div>
+
+		<span class="clr"></span>
+	</div>
+</div>
+</div>
+<div class="w">
+	<div class="m-box-s1 rec-goods-chosen u-ad-wrap hide" id="J_promGoodsWrap_292">
+		<span class="u-ad"></span>
+		<div class="mt"><strong class="mt-title">商品精选</strong></div>
+		<div class="mc"></div>
+	</div>
+</div>
+<div class="w">
+	<div class="bottom-search">
+		<div class="form-group">
+			<div class="fg-line search-ext">
+				<div class="fg-line-key"><span>您是不是要找：</span></div>
+				<div class="fg-line-value" clstag="search|keycount|search|qpsearch"></div>
+			</div>
+			<div class="fg-line re-search">
+				<div class="fg-line-key"><b>重新搜索：</b></div>
+				<div class="fg-line-value">
+					<input id="key-re-search" class="input-txt input-XL" type="text" placeholder="搜索" value="" onkeydown="javascript:if(event.keyCode==13){searchlog(1,0,0,60);search('key-re-search');}"/>
+					<a class="btn btn-primary btn-XL" href="javascript:search('key-re-search')" onclick="searchlog(1,0,0,60)">搜索</a>
+					<a class="link" href="javascript:surveyShow()">说说我使用搜索的感受</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="w">
+	<div id="footmark" class="footmark" data-lazyload-fn="done"></div>
+</div>
+<!--service start-->
+<div id="service-2017">
+	<div class="w">
+		<ol class="slogen">
+			<li class="item fore1">
+				<i>多</i>品类齐全，轻松购物
+			</li>
+			<li class="item fore2">
+				<i>快</i>多仓直发，极速配送
+			</li>
+			<li class="item fore3">
+				<i>好</i>正品行货，精致服务
+			</li>
+			<li class="item fore4">
+				<i>省</i>天天低价，畅选无忧
+			</li>
+		</ol>
+	</div>
+	<div class="jd-help">
+		<div class="w">
+			<div class="wrap">
+				<dl class="fore1">
+					<dt>购物指南</dt>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-29.html">购物流程</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-151.html">会员介绍</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-297.html">生活旅行/团购</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue.html">常见问题</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-136.html">大家电</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/custom.html">联系客服</a></dd>
+				</dl>
+				<dl class="fore2">		
+					<dt>配送方式</dt>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81-100.html">上门自提</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81.html">211限时达</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/103-983.html">配送服务查询</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/109-188.html">配送费收取标准</a></dd>				
+					<dd><a target="_blank" href="//help.joybuy.com/help/question-list-201.html">海外配送</a></dd>
+				</dl>
+				<dl class="fore3">
+					<dt>支付方式</dt>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-172.html">货到付款</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-173.html">在线支付</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-176.html">分期付款</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-175.html">公司转账</a></dd>
+				</dl>
+				<dl class="fore4">		
+					<dt>售后服务</dt>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-112.html">售后政策</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-132.html">价格保护</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/130-978.html">退款说明</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//myjd.jd.com/repair/repairs.action">返修/退换货</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-50.html">取消订单</a></dd>
+				</dl>
+				<dl class="fore5">
+					<dt>特色服务</dt>	
+					<dd><a target="_blank" href="//1paipai.jd.com">夺宝岛</a></dd>
+					<dd><a target="_blank" href="//help.jd.com/user/issue/list-134.html">DIY装机</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//fuwu.jd.com/">延保服务</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//o.jd.com/market/index.action">京东E卡</a></dd>				
+					<dd><a rel="nofollow" target="_blank" href="//mobile.jd.com/">京东通信</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//smart.jd.com/">京鱼座智能</a></dd>
+				</dl>
+				<span class="clr"></span>
+			</div>
+		</div>
+	</div>
+</div>
+<!--service end-->
+
+<!--footer start-->
+<div id="footer-2017" Includefile_Footer_id="1002">
+	<div class="w">
+		<div class="copyright_links">
+			<p>
+				<a href="//about.jd.com" target="_blank">关于我们</a><span class="copyright_split">|</span>
+				<a href="//about.jd.com/contact/" target="_blank">联系我们</a><span class="copyright_split">|</span>
+				<a href="//help.jd.com/user/custom.html" target="_blank">联系客服</a><span class="copyright_split">|</span>
+				<a href="//lai.jd.com" target="_blank">合作招商</a><span class="copyright_split">|</span>
+				<a href="//helpcenter.jd.com/venderportal/index.html" target="_blank">商家帮助</a><span class="copyright_split">|</span>
+				<a href="//jzt.jd.com" target="_blank">营销中心</a><span class="copyright_split">|</span>
+				<a href="//app.jd.com/" target="_blank">手机京东</a><span class="copyright_split">|</span>
+				<a href="//club.jd.com/links.aspx" target="_blank">友情链接</a><span class="copyright_split">|</span>
+				<a href="//media.jd.com/" target="_blank">销售联盟</a><span class="copyright_split">|</span>
+				<a href="//pro.jd.com/mall/active/3WA2zN8wkwc9fL9TxAJXHh5Nj79u/index.html" target="_blank">京东社区</a><span class="copyright_split">|</span>
+				<a href="//pro.jd.com/mall/active/3TF25tMdrnURET8Ez1cW9hzfg3Jt/index.html" target="_blank">风险监测</a><span class="copyright_split">|</span>
+				<a href="//about.jd.com/privacy/" target="_blank">隐私政策</a><span class="copyright_split">|</span>
+				<a href="//gongyi.jd.com" target="_blank">京东公益</a><span class="copyright_split">|</span>
+				<a href="//www.joybuy.com/" target="_blank">English Site</a><span class="copyright_split">|</span>
+				<a href="//corporate.jd.com/" target="_blank">Media & IR</a>
+			</p>
+		</div>
+		<div class="copyright_info">
+			<p>
+				<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088" target="_blank">京公网安备 11000002000088号</a><span class="copyright_split">|</span><span><a href="http://beian.miit.gov.cn" target="_blank">京ICP备11041704号</a></span><span class="copyright_split">|</span>
+				<a href="//h5.m.jd.com/pc/dev/3T3No18XR8k8rpLGLGhgbJ1StAFq/index.html" target="_blank" rel="noopener noreferrer">ICP</a><span class="copyright_split">|</span>
+				<a href="//jdwp.jd.com/544-2927.html" target="_blank">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a><span class="copyright_split">|</span><span>新出发京零 字第大120007号</span></p>
+			<p><span>互联网出版许可证编号新出网证(京)字150号</span><span class="copyright_split">|</span>
+				<a href="//pro.jd.com/mall/active/3bVDLXHdwVmdQksGF8TtS7ocq1NY/index.html" target="_blank">出版物经营许可证</a><span class="copyright_split">|</span>
+				<a href="//img10.360buyimg.com/ling/jfs/t1/164806/19/5070/567736/6017d6d6Eab06ec9c/d8ca6e029f495447.jpg" target="_blank">网络文化经营许可证京网文[2020]6112-1201号</a><span class="copyright_split">|</span><span>违法和不良信息举报电话：4006561155</span></p>
+			<p><span class="copyright_text">Copyright &copy; 2004 - <em id="copyright_year">2019</em>  京东JD.com 版权所有</span><span class="copyright_split">|</span><span>消费者维权热线：4006067733</span>
+				<a href="//pro.jd.com/mall/active/38PitHBfR7ZopNHRSHnuuWR5AMDL/index.html" target="_blank" class="copyright_license">经营证照</a>
+				<span class="copyright_split">|</span>
+				<span>(京)网械平台备字(2018)第00003号</span>
+				<span class="copyright_split">|</span>
+				<a href="//h5.m.jd.com/babelDiy/Zeus/ARcYnJ8coUdUecn6UQAN6TDaVmH/index.html" target="_blank" class="mod_business_license">营业执照</a>
+				<span class="copyright_split">|</span>
+				<a href="//h5.m.jd.com/pc/dev/3YxBvN6m5TsRyVCvDSeEh7awmLB4/index.html" target="_blank" rel="noopener noreferrer">增值电信业务经营许可证</a>
+			</p>
+			<p class="mod_copyright_inter">
+				<a class="mod_copyright_inter_lk" href="//www.joybuy.com/?source=1&visitor_from=3" target="_blank" clstag="h|keycount|btm|btmnavi_null0501"><i class="mod_copyright_inter_ico mod_copyright_inter_ico_global"></i><span class="languagefont">&#xe901;</span></a>
+				<span class="copyright_split">|</span>
+				<a class="mod_copyright_inter_lk" href="//www.jd.ru/?source=1&visitor_from=3" target="_blank" clstag="h|keycount|btm|btmnavi_null0502"><i class="mod_copyright_inter_ico mod_copyright_inter_ico_rissia"></i><span class="languagefont">&#xe904;</span></a>
+				<span class="copyright_split">|</span>
+				<a class="mod_copyright_inter_lk" href="//www.jd.id/?source=1&visitor_from=3" target="_blank" clstag="h|keycount|btm|btmnavi_null0503"><i class="mod_copyright_inter_ico mod_copyright_inter_ico_indonesia"></i><span class="languagefont">&#xe902;</span></a>
+				<span class="copyright_split">|</span>
+				<a class="mod_copyright_inter_lk" href="//www.joybuy.es/?source=1&visitor_from=3" target="_blank" clstag="h|keycount|btm|btmnavi_null0504"><i class="mod_copyright_inter_ico mod_copyright_inter_ico_spain"></i><span class="languagefont">&#xe903;</span></a>
+				<span class="copyright_split">|</span>
+				<a class="mod_copyright_inter_lk" href="//www.jd.co.th/?source=1&visitor_from=3" target="_blank" clstag="h|keycount|btm|btmnavi_null0505"><i class="mod_copyright_inter_ico mod_copyright_inter_ico_thailand"></i><span class="languagefont">&#xe900;</span></a>
+			</p>
+			<p><span>京东旗下网站：</span>
+				<a href="https://www.jdpay.com/" target="_blank">京东钱包</a><span class="copyright_split">|</span>
+				<a href="https://www.jdcloud.com" target="_blank">京东云</a>
+			</p>
+		</div>
+		<p class="copyright_auth">
+			<script type="text/JavaScript">function CNNIC_change(eleId){var str= document.getElementById(eleId).href;var str1 =str.substring(0,(str.length-6));str1+=CNNIC_RndNum(6);
+				document.getElementById(eleId).href=str1;}function CNNIC_RndNum(k){var rnd=""; for (var i=0;i
+				< k;i++) rnd+=Math.floor(Math.random()*10); return rnd;};(function(){var d=new Date;document.getElementById(
+				 "copyright_year").innerHTML=d.getFullYear()})();</script>
+					<a id="urlknet" class="copyright_auth_ico copyright_auth_ico_2" onclick="CNNIC_change('urlknet')" oncontextmenu="return false;"
+					 name="CNNIC_seal" href="https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ct=df&pa=294005" target="_blank">可信网站信用评估</a>
+					<a class="copyright_auth_ico copyright_auth_ico_3" href="http://www.cyberpolice.cn/" target="_blank">网络警察提醒你</a>
+					<a class="copyright_auth_ico copyright_auth_ico_4" href="https://search.szfw.org/cert/l/CX20120111001803001836" target="_blank">诚信网站</a>
+					<a class="copyright_auth_ico copyright_auth_ico_5" href="http://www.12377.cn" target="_blank">网上有害信息举报专区</a>
+					<a class="copyright_auth_ico copyright_auth_ico_6" href="http://www.12377.cn/node_548446.htm" target="_blank">网络举报APP下载</a>
+					<a class="copyright_auth_ico copyright_auth_ico_7" href="http://ggfw.cnipa.gov.cn:8010/PatentCMS_Center?fromsite=www.jd.com" target="_blank" rel="noopener noreferrer" style="background-image: url(&quot;//img12.360buyimg.com/imagetools/jfs/t1/89057/27/24131/19491/621c3949E053e39b3/9e2e3ec54268ac9b.png&quot;);overflow: hidden;display: inline-block;width: 103px;height: 32px;line-height: 1000px;background-size: cover;">国家知识产权公共服务网</a>
+		</p>
+	</div>
+</div>
+<!--footer end-->
+<div id="J-global-toolbar"></div>
+<style>
+	 .selector.selector .sl-v-logos li a{overflow:unset;}
+	 .selector.selector .sl-v-logos li{overflow:hidden;width:114px;}
+	 .filter.filter .f-line{height:auto}
+	 
+</style>
+<script>
+(function(win) {
+    seajs.use('//static.360buyimg.com/devfe/toolbar/1.0.0/js/main', function(Toolbar) {
+var adConfig = {};
+var actName = null;
+if (window.pageConfig && window.pageConfig.actName) {
+    actName = window.pageConfig.actName;
+}
+
+if (actName == '618') {
+    adConfig = {
+        enabled: true,
+        id: "0_0_7860",
+        startTime: +new Date(2017, 4, 24, 0, 0, 0) / 1000,
+        endTime: +new Date(2017, 5, 21, 23, 59, 59) / 1000
+    };
+}
+
+        pageConfig.toolbar = new Toolbar({
+            pType: 'search',
+            bars: {
+                jimi: {
+                    enabled: false
+                },
+                cart: {
+                    enabled: true
+                },
+                message: {
+                        enabled: false
+                    },
+				follow: { enabled: false },
+                history: {
+                    enabled: false
+                }
+            },
+            links: {
+            	qrcode: {
+            		index: 0,
+            		anchor: "javascript:void(0)"
+            	},
+                feedback: {
+                	index: 2,
+                    href:"//wj-dongjian.jd.com/q/61961e975d82bb00a9002fc1"
+                },
+                top:{
+                	index: 1,
+                  anchor:"javascript:window.scrollTo(0,0);"
+                }
+            },
+            ad: adConfig
+        });
+    });
+
+})(window);
+</script>
+</body>
+<script>
+seajs.use('product/search/1.0.8/js/main.js').use('//h5.360buyimg.com/ws_js/jdwebm.js?v=pcSearch').config({alias:{'search_new':'./script/search_new.init.js?2021-12-23-19!'}}).use('search_new', function(s){
+	$('#key-re-search').val(window.QUERY_KEYWORD);
+	s.init(3, 6, '100+ ',"5",1, 0, 0,0, 0, 0 ,0);
+});
+</script>
+<script type="text/javascript">
+	(function(){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=("https:"==document.location.protocol?"https://wlssl":"//wl")+".jd.com/wl.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();
+	window.surveyShow=function(){window.open('//wj-dongjian.jd.com/q/61961e975d82bb00a9002fc1')};
+</script>
+<script type="text/javascript">
+seajs.config({alias:{'search_maidian':'./script/search_maidian.js?2021-12-23-19!'}}).use('search_maidian', function(s){
+	s.init();
+});
+</script>
+<script type="text/javascript" src="//h5static.m.jd.com/act/jd-jssdk/latest/jd-jssdk.min.js"></script>
+<script type="text/javascript">
+
+function setCookie(name, value, domain ,time, path){
+	    time = time || 3600
+	    path = path || '/'
+	    var str = name + '=' + value + '; '
+	    if(time) str += 'expires=' + new Date(Date.now() + time * 1000).toGMTString() + '; '
+	    if(path) str += 'path=' + path + '; '
+	    if(domain == null){
+            var host = window.location.hostname.split('.')
+            host[0] = ''
+            domain = host.join('.')
+	    }
+	    str += 'domain=' + domain + "; SameSite=None; Secure=true"
+	    document.cookie = str;
+}
+
+function setCookie1(name, value){
+    setCookie(name, value)
+	setCookie(name, value, "search.jd.com" ,3600)
+	setCookie(name, value, "list.jd.com" ,3600)
+}
+
+/**
+ * 判断环境是否支持avif
+ */
+function checkSupport() {
+    /** 异步操作 */
+	return new Promise((resolve) => {
+		var timer = null;
+		// 原始方法判断
+		try {
+			var img = new Image();
+			timer = setTimeout(() => {
+				if (img) {
+					img.onload = img.onerror = null;
+					img = null;
+				}
+			}, 500);
+			img.onload = () => {
+			    if(img instanceof HTMLImageElement && img.width > 0 && img.height > 0){
+			        setCookie1("jsavif", 1);
+			    }
+				clearTimeout(timer);
+				//已完成并返回结果
+				resolve(img instanceof HTMLImageElement && img.width > 0 && img.height > 0);
+			};
+			img.onerror = () => {
+			    setCookie1("jsavif", 0);
+				clearTimeout(timer);
+				resolve(false);
+			};
+			img.src = "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAADybWV0YQAAAAAAAAAoaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAGxpYmF2aWYAAAAADnBpdG0AAAAAAAEAAAAeaWxvYwAAAABEAAABAAEAAAABAAABGgAAAB0AAAAoaWluZgAAAAAAAQAAABppbmZlAgAAAAABAABhdjAxQ29sb3IAAAAAamlwcnAAAABLaXBjbwAAABRpc3BlAAAAAAAAAAIAAAACAAAAEHBpeGkAAAAAAwgICAAAAAxhdjFDgQ0MAAAAABNjb2xybmNseAACAAIAAYAAAAAXaXBtYQAAAAAAAAABAAEEAQKDBAAAACVtZGF0EgAKCBgANogQEAwgMg8f8D///8WfhwB8+ErK42A=";
+		} catch (e) {
+			timer && clearTimeout(timer);
+			setCookie1("jsavif", 0 );
+			resolve(false);
+		}
+	});
+}
+var avif = checkSupport();
+
+function imgLoadTime(){
+    jmfe.jsagentInit({
+        flag: 185
+    })
+    jmfe.profilerInit({
+        flag: 185,
+        autoReport: true,
+        performanceReportTime:8000,
+        profilingRate: 1
+    });
+
+    var imgSuffix = window.pageConfig.avifImgSuffix || "";
+    var isDone = false;
+    // 资源数组
+    var resourceList = [];
+    var resourceMap = {};
+    var reportList = [];
+    // 拼接的代码函数
+    function getResource (resource) {
+        var imgList = $("#J_goodsList .p-img img");
+        var imgMap = {};
+        for(var i=0;i<imgList.length;i++){
+            var src = imgList.eq(i).attr("src") || imgList.eq(i).attr("data-lazy-img");
+            if(src && src != "" && src != "done"){
+                imgMap[src] = 1;
+            }
+        }
+        resource.forEach((item) => {
+            if (item.encodedBodySize && item.initiatorType === 'img' && item.duration > 0
+                && item.name.indexOf(".gif?")<0
+                && /\.(jpe?g|png|avif)/i.test(item.name) ) {
+               if( imgMap[item.name.substring(item.name.indexOf("//"),item.name.length)] == 1 && resourceMap[item.name]==null){
+                    resourceList.push(item)
+                    resourceMap[item.name] = 1;
+               }
+            }
+        })
+        return resourceList
+    }
+
+    //品牌图片
+    function getBrandResource() {
+        var brandResourceList = [];
+        var brandResourceMap = {};
+        var imgList = $("#J_selector .sl-v-logos img");
+        var imgMap = {};
+        for(var i=0;i<imgList.length;i++){
+            var src = imgList.eq(i).attr("src") || imgList.eq(i).attr("data-lazy-img");
+            if(src && src != "" && src != "done"){
+                imgMap[src] = 1;
+            }
+        }
+        var resource = performance.getEntriesByType('resource')
+        resource.forEach((item) => {
+            if (item.encodedBodySize && item.initiatorType === 'img' && item.duration > 0
+                && item.name.indexOf(".gif?")<0
+                && /\.(jpe?g|png|avif)/i.test(item.name) ) {
+               if( imgMap[item.name.substring(item.name.indexOf("//"),item.name.length)] == 1 && brandResourceMap[item.name]==null){
+                    brandResourceList.push(item)
+                    brandResourceMap[item.name] = 1;
+               }
+            }
+        })
+
+        var startTime = 0;
+        var endTime = 0;
+        var imgTime = brandResourceList;
+        for(var i=0;i<imgTime.length;i++){
+            if(i==0){
+                startTime = imgTime[i].connectStart;
+                endTime = imgTime[i].responseEnd;
+                var key = imgTime[i].name;
+                key = key.substring(key.indexOf("/jfs/"),key.length)
+                var item = {"number": 3,"key": "firstbrandImg"+imgSuffix,"time": imgTime[i].duration.toFixed(0),"desc": 'firstbrandImg'}
+                reportList.push(item);
+            }else{
+                if(startTime>imgTime[i].connectStart){
+                    startTime = imgTime[i].connectStart;
+                }
+                if(endTime<imgTime[i].responseEnd){
+                    endTime = imgTime[i].responseEnd;
+                }
+            }
+        }
+        if(startTime>0 && endTime>0 && (endTime-startTime)>0){
+            var totalTime = (endTime-startTime).toFixed(0);
+            reportList.push( {"number": 2,"key": "brandImg"+imgSuffix,"time": totalTime,"desc": 'brandImgTotal'} );
+        }
+        return brandResourceList
+    }
+
+    function reportJDSDK(imgTime){
+        if(isDone || imgTime==null || imgTime.length<4){
+            return;
+        }
+        var startTime = 0;
+        var endTime = 0;
+
+        for(var i=0;i<imgTime.length && i<8;i++){
+            if(i==0){
+                startTime = imgTime[i].connectStart;
+                endTime = imgTime[i].responseEnd;
+            }else{
+                if(startTime>imgTime[i].connectStart){
+                    startTime = imgTime[i].connectStart;
+                }
+                if(endTime<imgTime[i].responseEnd){
+                    endTime = imgTime[i].responseEnd;
+                }
+            }
+        }
+        if(startTime>0 && endTime>0 && (endTime-startTime)>0 && (endTime-startTime)<5000){
+            var totalTime = (endTime-startTime).toFixed(0);
+            reportList.push( {"number": 1,"key": "firstScreenImg"+imgSuffix,"time": totalTime,"desc": 'firstScreenImgTotal'} );
+        }
+
+        var idx = 4;
+        for(var i=0;i<imgTime.length && imgTime[i].duration>0 && reportList.length<5;i++){
+            var key = imgTime[i].name;
+            key = key.substring(key.indexOf("/jfs/"),key.length)
+            var item = {"number": 4,"key": "firstItemImg"+imgSuffix,"time": imgTime[i].duration.toFixed(0),"desc": 'firstItemImg'}
+            reportList.push(item);
+        }
+        if(reportList.length>0){
+            jmfe.profilerModuleReport(reportList);
+            isDone = true;
+        }
+    }
+
+      // 3s 后获取加载的资源
+      var resource = performance.getEntriesByType('resource')
+      getBrandResource()
+      var res = getResource(resource)
+      reportJDSDK(res);
+
+      if('PerformanceObserver' in window){
+          // 如果有3s后加载回来的 再触发收集上报
+          new PerformanceObserver((list) => {
+            var resourceObserverList = list.getEntries().filter(item => item.initiatorType == 'img');
+            var res = getResource(resourceObserverList)
+            reportJDSDK(res);
+          }).observe({
+            entryTypes: ['resource']
+          })
+      }else{
+        console.log('您的浏览器不支持 PerformanceObserver API');
+      }
+
+}
+
+var sleep = function(fun,time){
+    setTimeout(function(){ fun(); },time);
+}
+window.onload=function(){
+    sleep(imgLoadTime,3000);
+}
+</script></html>

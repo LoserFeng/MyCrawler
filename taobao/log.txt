@@ -1,43 +1,48 @@
-2023-02-10 13:27:55,115 - main.py[line:60] - INFO: 初始化完成
-2023-02-10 13:27:56,549 - main.py[line:64] - INFO: 完成登录
-2023-02-10 13:28:00,550 - spider_utils.py[line:113] - INFO: 开启monitor
-2023-02-10 13:28:00,550 - main.py[line:69] - INFO: 已经启动monitor
-2023-02-10 13:28:00,550 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:03,555 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:06,326 - main.py[line:85] - INFO: 总共搜索到 7页
-2023-02-10 13:28:06,327 - main.py[line:87] - INFO: 开始爬虫读取数据
-2023-02-10 13:28:06,327 - main.py[line:90] - INFO: 正在爬取第1页
-2023-02-10 13:28:06,559 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:09,564 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:12,708 - connectionpool.py[line:305] - WARNING: Connection pool is full, discarding connection: localhost. Connection pool size: 1
-2023-02-10 13:28:12,708 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:15,710 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:16,811 - main.py[line:90] - INFO: 正在爬取第2页
-2023-02-10 13:28:18,714 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:21,717 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:24,726 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:25,302 - main.py[line:90] - INFO: 正在爬取第3页
-2023-02-10 13:28:27,729 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:30,732 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:31,578 - main.py[line:90] - INFO: 正在爬取第4页
-2023-02-10 13:28:33,736 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:36,741 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:38,231 - main.py[line:90] - INFO: 正在爬取第5页
-2023-02-10 13:28:39,747 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:43,439 - connectionpool.py[line:305] - WARNING: Connection pool is full, discarding connection: localhost. Connection pool size: 1
-2023-02-10 13:28:43,439 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:46,447 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:46,511 - connectionpool.py[line:305] - WARNING: Connection pool is full, discarding connection: localhost. Connection pool size: 1
-2023-02-10 13:28:46,618 - main.py[line:90] - INFO: 正在爬取第6页
-2023-02-10 13:28:49,450 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:52,567 - connectionpool.py[line:305] - WARNING: Connection pool is full, discarding connection: localhost. Connection pool size: 1
-2023-02-10 13:28:52,567 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:55,570 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:28:55,625 - connectionpool.py[line:305] - WARNING: Connection pool is full, discarding connection: localhost. Connection pool size: 1
-2023-02-10 13:28:55,725 - main.py[line:90] - INFO: 正在爬取第7页
-2023-02-10 13:28:58,574 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:29:01,927 - connectionpool.py[line:305] - WARNING: Connection pool is full, discarding connection: localhost. Connection pool size: 1
-2023-02-10 13:29:01,927 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:29:04,930 - spider_utils.py[line:115] - INFO: monitor正在工作
-2023-02-10 13:29:06,145 - main.py[line:143] - INFO: 保存并退出
-2023-02-10 13:29:07,934 - spider_utils.py[line:124] - INFO: monitor终止
+2023-02-10 20:04:31,368 - main.py[line:61] - INFO: 初始化完成
+2023-02-10 20:04:32,927 - main.py[line:64] - INFO: 完成登录
+2023-02-10 20:04:37,928 - spider_utils.py[line:119] - INFO: 开启monitor
+2023-02-10 20:04:37,928 - main.py[line:69] - INFO: 已经启动monitor
+2023-02-10 20:04:37,928 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:04:40,936 - spider_utils.py[line:124] - INFO: 遇到拦截
+2023-02-10 20:04:40,939 - spider_utils.py[line:96] - INFO: 正在尝试第1次
+2023-02-10 20:04:43,208 - main.py[line:92] - INFO: 不是正确的页面，等待!
+2023-02-10 20:04:48,216 - main.py[line:92] - INFO: 不是正确的页面，等待!
+2023-02-10 20:04:51,697 - spider_utils.py[line:96] - INFO: 正在尝试第2次
+2023-02-10 20:04:53,219 - main.py[line:92] - INFO: 不是正确的页面，等待!
+2023-02-10 20:05:01,197 - connectionpool.py[line:305] - WARNING: Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2023-02-10 20:05:01,215 - main.py[line:102] - INFO: 总共搜索到 7页
+2023-02-10 20:05:01,215 - main.py[line:104] - INFO: 开始爬虫读取数据
+2023-02-10 20:05:01,215 - main.py[line:107] - INFO: 正在爬取第1页
+2023-02-10 20:05:07,196 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:08,437 - main.py[line:107] - INFO: 正在爬取第2页
+2023-02-10 20:05:10,201 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:13,206 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:16,210 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:18,701 - main.py[line:107] - INFO: 正在爬取第3页
+2023-02-10 20:05:19,214 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:22,734 - connectionpool.py[line:305] - WARNING: Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2023-02-10 20:05:22,734 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:25,739 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:26,867 - main.py[line:107] - INFO: 正在爬取第4页
+2023-02-10 20:05:28,744 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:31,748 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:34,752 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:35,115 - main.py[line:107] - INFO: 正在爬取第5页
+2023-02-10 20:05:37,757 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:40,760 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:42,369 - main.py[line:107] - INFO: 正在爬取第6页
+2023-02-10 20:05:43,764 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:46,769 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:49,773 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:51,822 - main.py[line:107] - INFO: 正在爬取第7页
+2023-02-10 20:05:52,777 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:55,781 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:58,786 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:05:59,214 - main.py[line:170] - INFO: 保存商品信息
+2023-02-10 20:05:59,214 - main.py[line:173] - INFO: 开始爬取评论
+2023-02-10 20:05:59,221 - main.py[line:182] - INFO: 正在爬取ID为564764546766的评论
+2023-02-10 20:06:01,791 - spider_utils.py[line:121] - INFO: monitor正在工作
+2023-02-10 20:06:04,887 - connectionpool.py[line:305] - WARNING: Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2023-02-10 20:06:04,887 - spider_utils.py[line:124] - INFO: 遇到拦截
+2023-02-10 20:06:04,889 - spider_utils.py[line:96] - INFO: 正在尝试第1次
+2023-02-10 20:07:06,903 - connectionpool.py[line:305] - WARNING: Connection pool is full, discarding connection: localhost. Connection pool size: 1

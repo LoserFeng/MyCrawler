@@ -1,0 +1,8 @@
+2023-02-10 18:46:44,083 - main.py[line:62] - INFO: 初始化完成
+2023-02-10 18:46:46,027 - main.py[line:66] - INFO: 完成登录
+2023-02-10 18:46:50,028 - spider_utils.py[line:113] - INFO: 开启monitor
+2023-02-10 18:46:50,028 - main.py[line:71] - INFO: 已经启动monitor
+2023-02-10 18:46:50,028 - spider_utils.py[line:115] - INFO: monitor正在工作
+2023-02-10 18:46:53,032 - spider_utils.py[line:118] - INFO: 遇到拦截
+2023-02-10 18:46:53,034 - spider_utils.py[line:90] - INFO: 正在尝试第1次
+2023-02-10 18:47:22,747 - connectionpool.py[line:305] - WARNING: Connection pool is full, discarding connection: localhost. Connection pool size: 1

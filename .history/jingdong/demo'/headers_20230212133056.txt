@@ -1,0 +1,21 @@
+fetch("https://search.jd.com/Search?keyword=%E6%AD%A3%E5%A4%A7%E9%A3%9F%E5%93%81%EF%BC%88CP%EF%BC%89%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%97%97%E8%88%B0%E5%BA%97&enc=utf-8&suggest=2.his.0.0&wq=&pvid=1d786cf5ab4b432f9045c68115099be0", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Chromium\";v=\"110\", \"Not A(Brand\";v=\"24\", \"Microsoft Edge\";v=\"110\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "none",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1",
+    "cookie":"shshshfpa=a59ef60d-c8a6-92ba-2baf-a646895cc98d-1672212324; shshshfpb=yZaSjZXfeZ-R-j6eY1Nun6A; __jdu=16722123231461165655386; o2State={"webp":true,"avif":false}; areaId=15; PCSYCityID=CN_330000_330100_0; ipLoc-djd=15-1213-3038-59931; pinId=F0lqqKsS7Ce1ffsfn98I-w; pin=LOSER丰; unick=LOSER丰; _tp=Iz8Q38tsk7Xe1Xc1Cy0l4Q==; _pst=LOSER丰; unpl=JF8EAKhnNSttXE5dURkLHxYVQwhVW11bHkdQPTUHAQ0NTwNXTgYeQUB7XlVdXxRKFB9vZBRUX1NLUA4fAysSEHtdVV9fCU0eAGhgNWRYW0xTBCsBGyIRe11TWF4LSxQBbGUFUVpYS1MBHAYfEBlMbVVuXQBMJwRvZgJVX1h7ZAQrAysTIB0zVF9cCUofBWxkBhldX01XBhsBGRESS1hTXl0PTxAHa2UMU21Ze1c; __jdv=122270672|kong|t_1003078266_|jingfen|548e385549d041bdabcc3dad5fcd54ba|1676178951001; TrackID=153eT-bS7-TH0zTiURvbcsXJ906H2je9nODkD5QrvdAOSH3lh5WOMlE_E_WvGLCO6VwC1LDNjV1QzURU_Em52NPCWhCOon3yKMb1h5OHxvK_zNdqe0N90kh5n5LHhz2Na; ceshi3.com=000; shshshfpx=a59ef60d-c8a6-92ba-2baf-a646895cc98d-1672212324; jsavif=0; __jda=122270672.16722123231461165655386.1672212323.1676178924.1676178951.16; __jdc=122270672; shshshfp=f3a35f8c7bd61322ba4dc0413d247ffb; thor=B0FCAB6E82CA81C65C8CD0C89AFF0FD42C09EC761E24C53E3B9B787FDEA9C34FF627D6AEFC38BCAC4D9E55B95A6F46D61FC30F474445D8422545333C3F7D288901B7939CCE16CD1A3108C8105A17C0CE28B666A847F3C373CFE3641353FF1B0969ACDC24CEA29B24A6C086B57A2E6B033526E499C031623582A7BF4C9AF7C1A9; shshshsID=644c61c7f485dcd2b6d7bdff14f3eb4f_14_1676179764040; joyya=0.1676179768.23.1d99xdw; 3AB9D23F7A4B3C9B=C435LG3UEXGMHAEILE7G3HDVXAXNBB2CCFDLR6B4JYHHDL7YQD7DBXWW3GDPN6URM5RVNTAQMJK77BOJ7SZ6MWLZXY; __jdb=122270672.19.16722123231461165655386|16.1676178951"
+  },
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+});
